@@ -21,6 +21,7 @@
 # 3.7 分析プロセスの保存
 # 4 検証課題へのアプローチ
 
+
 # 1 準備 ------------------------------------------------------------------------
 
 # ライブラリ
@@ -34,7 +35,9 @@ library(lubridate)
 # データロード
 # --- テキストファイルを読込
 cdnow_raw_tbl <-
-  vroom::vroom(file = "lab_58_cust_lifetime_r/data/CDNOW_master.txt", delim = " ", col_names = FALSE)
+  vroom::vroom(file = "lab_58_cust_lifetime_r/data/CDNOW_master.txt",
+               delim = " ",
+               col_names = FALSE)
 
 # データ加工
 cdnow_tbl <-
@@ -51,7 +54,7 @@ cdnow_tbl %>% glimpse()
 
 # 2 コホート分析 ---------------------------------------------------------------
 
-# - Only the customers that have joined at the specific business day
+# * 準備 ------------------------------------------------
 
 # 初回購入日の取得
 # --- カスタマーIDごと
@@ -61,14 +64,15 @@ cdnow_first_purchase_tbl <-
     slice_min(date) %>%
     ungroup()
 
-# 日付期間の確認
+# 期間の確認
+# --- 初回購入日
 cdnow_first_purchase_tbl %>% pull(date) %>% range()
 
 
 # * コホート期間の設定 ----------------------------------------
 
 # ＜ポイント＞
-# - 対象期間を1997-01-01 to 1997-03-31と設定する
+# - 分析対象期間を1997-01-01 to 1997-03-31と設定する
 
 
 # ID抽出
@@ -101,7 +105,7 @@ cdnow_cohort_tbl %>%
   plot_time_series(date, total_price, .y_intercept = 0)
 
 
-# * 可視化: 個人の売上高 ----
+# * 可視化: 個人の売上高 ------------------------------------
 
 n    <- 1:10
 ids  <- cdnow_cohort_tbl$customer_id %>% unique() %>% .[n]
