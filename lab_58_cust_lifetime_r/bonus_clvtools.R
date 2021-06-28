@@ -171,6 +171,7 @@ model_gg <-
 
 model_gg
 
+# 予測
 model_gg %>% predict()
 
 model_gg %>% plot()
