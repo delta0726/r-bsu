@@ -1,7 +1,7 @@
 # ******************************************************************************
 # Title       : BSU Learning Lab
 # Theme       : Tidymodels Ecosystem
-# Chapter     : LAB 51: STACKS
+# Chapter     : LAB 52: STACKS
 # Module      : 01_churn_classification_stacks.R
 # Update Date : 2021/7/1
 # URL         : https://university.business-science.io/courses/enrolled/
