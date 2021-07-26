@@ -8,9 +8,10 @@
 # ******************************************************************************
 
 
-# BUSINESS OBJECTIVE ----
-# - Forecast intermittent demand
-# - Predict next 52-WEEKS
+# ＜目次＞
+# - {modeltime.h2o}の使い方を確認する
+# - AutoMLによる時系列機械学習を体験する
+# - {modeltime}のワークフローを確認する
 
 
 # ＜目次＞
