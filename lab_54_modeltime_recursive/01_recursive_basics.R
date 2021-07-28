@@ -104,7 +104,7 @@ future_data %>% group_by(id) %>% tally()
 
 # ＜参考＞
 # panel_tail()
-# --- 各パネルの末尾データを返す
+# --- 各パネル(グループ)の末尾データを返す
 train_data %>% panel_tail(id, FORECAST_HORIZON) %>% group_split(id) %>% .[[1]]
 train_data %>% group_split(id) %>% map(tail, FORECAST_HORIZON) %>% .[[1]]
 
@@ -129,6 +129,7 @@ model_fit_lm_recursive <-
 # 5 予測結果の確認 ----------------------------------------------------------------------
 
 # プロット作成
+# --- new_dataのvalueにはNAが含まれている
 modeltime_table(model_fit_lm,
                 model_fit_lm_recursive) %>%
   modeltime_forecast(new_data    = future_data,
