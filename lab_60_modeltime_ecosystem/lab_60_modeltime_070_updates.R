@@ -488,19 +488,20 @@ best_model_accuracy_by_id <- best_vs_baseline_tbl
 # 12 最終予測 ----------------------------------------------------------
 
 # リフィット
+# --- {modeltime.gluonts}と{xgboost}のモデルを選択
 # --- モデルテーブルを再学習（テーブルに抽出や変更を加えた場合に実施）
 refit_tbl <- 
   calib_baseline_tbl %>%
     filter(.model_id <= 4 | .model_id == 8) %>%
     modeltime_refit(data = domestic_airline_tbl)
 
-# 予測用データ
+# 将来データの作成
 new_data <- 
   domestic_airline_tbl %>%
     group_by(id) %>%
     future_frame(date, .length_out = 6)
 
-# 将来データの作成
+# 予測
 forecast_tbl <- 
   refit_tbl %>%
     modeltime_forecast(new_data = new_data, 
