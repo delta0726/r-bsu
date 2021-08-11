@@ -40,19 +40,22 @@ library(timetk)
 library(tidyverse)
 library(lubridate)
 library(janitor)
+library(reticulate)
 
 
 # Python Config
-reticulate::py_discover_config()
+use_condaenv("C:/Users/Owner/Anaconda3/envs/r-gluonts", required = TRUE)
+py_discover_config()
 
 
 # データロード
 # --- requires readr >= 2.0.0
-file_paths = fs::dir_ls("lab_60_modeltime_ecosystem/data", glob = "*.csv")
-airline_data_raw_tbl <- read_csv(file_paths, id = "path",  name_repair = janitor::make_clean_names)
+airline_data_raw_tbl <-
+  fs::dir_ls("lab_60_modeltime_ecosystem/data", glob = "*.csv") %>% 
+    read_csv(id = "path",  name_repair = janitor::make_clean_names)
 
 # データ確認
-airline_data_raw_tbl
+airline_data_raw_tbl %>% print()
 
 
 # 1 データ加工 ----------------------------------------------------------------
@@ -62,35 +65,29 @@ airline_data_tbl <-
   airline_data_raw_tbl %>%
     filter(!month %in% "TOTAL") %>%
     mutate(date = make_date(year, month)) %>%
-    mutate(
-        carrier = path %>%
-            str_remove("lab_60_modeltime_ecosystem/data/") %>%
-            str_remove(".csv") %>%
-            str_replace_all("_", " ") %>%
-            str_to_title()
-    ) %>%
+    mutate(carrier = path %>%
+                      str_remove("lab_60_modeltime_ecosystem/data/") %>%
+                      str_remove(".csv") %>%
+                      str_replace_all("_", " ") %>%
+                      str_to_title()) %>%
     select(carrier, date, domestic:total) %>%
     pivot_longer(cols = domestic:total, names_to = "travel_type", values_to = "value") %>%
     drop_na() %>%
     mutate(id = str_c(carrier, "_", travel_type)) %>%
     select(id, date, value)
 
+# データ確認
+# --- データ終了日が異なる
+# --- 全ての系列が同じデータ数ではない
+airline_data_tbl %>% print()
+airline_data_tbl %>% group_by(id) %>% tally()
+airline_data_tbl %>% group_by(id) %>% tk_summary_diagnostics()
+
 # プロット作成
 airline_data_tbl %>%
   group_by(id) %>%
   plot_time_series(date, value, .facet_ncol = 3)
 
-# データチェック
-# --- 全ての系列が同じデータ数ではない
-airline_data_tbl %>%
-  group_by(id) %>%
-  tally()
-
-# データチェック
-# --- データ終了日が異なる
-airline_data_tbl %>%
-  group_by(id) %>%
-  tk_summary_diagnostics()
 
 # データ抽出
 # --- 国内線のみ抽出
@@ -141,6 +138,9 @@ fit_deepar_gluonts %>% print()
 
 # NEW: DeepAR Torch *************************
 
+# ＜ポイント＞
+# - deep_ar()のエンジンに{pytorch}を使っている
+
 #   Requires:
 #   - modeltime.gluonts >= 0.3.0 (R)
 #   - gluonts >= 0.8.0 (python)
@@ -162,6 +162,9 @@ fit_deepar_torch %>% print()
 
 # * NEW: GP Forecaster *********************
 
+# ＜ポイント＞
+# - gp_forecaster()は新しい関数
+
 # モデル構築＆学習
 fit_gp_forecaster <-
   gp_forecaster(id = "id",
@@ -177,6 +180,9 @@ fit_gp_forecaster %>% print()
 
 
 # * NEW: Deep State **************************************
+
+# ＜ポイント＞
+# - deep_state()は新しい関数
 
 # モデル構築＆学習
 fit_deep_state <-
@@ -209,30 +215,30 @@ calib_gluonts_tbl <-
                   fit_deep_state) %>%
   modeltime_calibrate(testing(splits), id = "id")
 
+# 確認
+calib_gluonts_tbl %>% print()
+
 
 # 予測精度の検証
 # --- 全体（グローバルモデル）
-calib_gluonts_tbl %>% modeltime_accuracy()
-
-
-# 予測精度の計算
 # --- IDごと（ローカルモデル）
-accuracy_id_tbl <-
-  calib_gluonts_tbl %>%
-    modeltime_accuracy(acc_by_id = TRUE)
+calib_gluonts_tbl %>% modeltime_accuracy()
+calib_gluonts_tbl %>% modeltime_accuracy(acc_by_id = TRUE)
+
 
 # 予測精度のテーブル表示
 # --- IDごと
-accuracy_id_tbl %>%
+calib_gluonts_tbl %>%
+  modeltime_accuracy(acc_by_id = TRUE) %>% 
   group_by(id) %>%
   table_modeltime_accuracy()
 
-# 予測精度
-# --- IDごとの最良RMSE
-accuracy_id_tbl %>%
+# 最良モデルの選択
+# --- IDごとにRMSEで評価
+calib_gluonts_tbl %>%
+  modeltime_accuracy(acc_by_id = TRUE) %>% 
   group_by(id) %>%
   slice_min(rmse)
-
 
 
 # 5 予測 -------------------------------------------------------------
@@ -243,7 +249,7 @@ accuracy_id_tbl %>%
 # --- グローバル予測とローカル予測が出ている
 # --- グローバル予測
 calib_gluonts_tbl %>%
-  modeltime_forecast(new_data    = testing(splits),　
+  modeltime_forecast(new_data    = testing(splits),
                      actual_data = domestic_airline_tbl, 
                      keep_data   = TRUE) %>% 
   group_by(id) %>%
@@ -298,7 +304,7 @@ grid_tbl <-
                       mode         = "regression")
 
 # # グリッド作成
-# # --- スケーラブルに耐えられるかテスト
+# # --- スケーラブルに耐えられるかのテスト用
 # grid_tbl <-
 #   tibble(learn_rate = seq(0, 1, 0.001)) %>%
 #   create_model_grid(f_model_spec = boost_tree,
@@ -313,7 +319,7 @@ grid_tbl$.models
 # * ワークフロー・セットの設定 ----
 
 # ワークフローセットの作成
-# --- 前処理
+# --- 前処理は1パターンのみ
 wfset <-
   workflow_set(preproc = list(recipe_spec),
                models = grid_tbl$.models,
@@ -343,7 +349,6 @@ modeltime_xgboost_fit <-
 # 並列処理の終了
 parallel_stop()
 
-
 # 確認
 modeltime_xgboost_fit %>% print()
 
@@ -358,9 +363,14 @@ calib_tbl <-
     modeltime_calibrate(testing(splits), id = "id")
 
 # モデル精度の検証
+# --- 全体（グローバルモデル）
+# --- IDごと（ローカルモデル）
 calib_tbl %>% modeltime_accuracy()
+calib_tbl %>% modeltime_accuracy(acc_by_id = TRUE)
+
 
 # 最良モデルの抽出
+# --- 全体（グローバルモデル）
 # --- IDごとにRMSEが最小なモデルを探す
 calib_tbl %>%
   modeltime_accuracy(acc_by_id = TRUE) %>%
@@ -385,7 +395,8 @@ model_median_fit <-
     set_engine("window_function", window_function = median) %>%
     fit(value ~ ., data = training(splits))
 
-model_median_fit
+# 確認
+model_median_fit %>% print()
 
 
 # ベースラインモデル
@@ -395,14 +406,20 @@ model_mean_fit <-
     set_engine("window_function", window_function = mean) %>%
     fit(value ~ ., data = training(splits))
 
-model_mean_fit
+# 確認
+model_mean_fit %>% print()
+
 
 # ベースラインモデル
 # --- Seasonal NAIVE by ID ----
-model_snaive_fit = 
+model_snaive_fit <- 
   naive_reg(seasonal_period = 12, id = "id") %>%
     set_engine("snaive") %>%
     fit(value ~ ., data = training(splits))
+
+# 確認
+model_snaive_fit %>% print()
+
 
 # モデルテーブルに登録
 baseline_models <- 
@@ -422,8 +439,7 @@ window_grid_tbl <-
     create_model_grid(f_model_spec  = window_reg, 
                       id            = "id", 
                       engine_name   = "window_function", 
-                      engine_params = list(window_function = ~ median(.))
-                      )
+                      engine_params = list(window_function = ~ median(.)))
 
 # 一括学習
 # --- 結果は各リストに格納される
@@ -435,7 +451,7 @@ window_model_list <-
 
 # モデルテーブルに変換
 # --- リストからテーブルに変換
-baseline_window_tuned <- window_model_list %>%as_modeltime_table()
+baseline_window_tuned <- window_model_list %>% as_modeltime_table()
 
 
 # 11 ベースラインモデルを含めたモデル精度の検証 ----------------------------------------------
@@ -444,7 +460,7 @@ baseline_window_tuned <- window_model_list %>%as_modeltime_table()
 calib_baseline_tbl <- 
   calib_tbl %>%
     filter(.model_id %in% c(1, 12, 13, 10)) %>%
-    combine_modeltime_tables(baseline_models,　
+    combine_modeltime_tables(baseline_models,
                              baseline_window_tuned) %>%
     modeltime_calibrate(testing(splits), id = "id")
 
@@ -508,7 +524,7 @@ actual_tbl <-
   forecast_tbl %>%
     filter(is.na(.model_id))
 
-bind_rows(actual_tbl,　
+bind_rows(actual_tbl,
           forecast_selection_tbl) %>%
   group_by(id) %>%
   plot_modeltime_forecast(.plotly_slider = TRUE)
@@ -526,8 +542,8 @@ new_data <-
 refit_tbl %>%
   ensemble_average() %>%
   modeltime_table() %>%
-  modeltime_forecast(new_data = new_data,　
-                     actual_data = domestic_airline_tbl,　
+  modeltime_forecast(new_data = new_data,
+                     actual_data = domestic_airline_tbl,
                      conf_by_id = TRUE) %>%
   group_by(id) %>%
   plot_modeltime_forecast(.plotly_slider = TRUE)
