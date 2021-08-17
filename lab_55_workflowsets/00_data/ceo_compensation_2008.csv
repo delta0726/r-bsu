@@ -1,0 +1,501 @@
+CEO,Gender,Company,Ticker,Industry,Founder,Years.as.company.CEO,Years.with.company,Age,Total.2008.compensation,2008.Salary,2008.Bonus,2008.Other,2008.Stock.gains,5-year.compensation.total,Shares.owned.($.millions),6-year.average.compensation,6-year.annual.total.return,6-year.return.relative.to.industry,6-year.return.relative.to.market,Performance.vs.pay.rank,Total.return.during.tenure,Relative.to.market
+Lawrence J Ellison,M,Oracle,ORCL,Software & Services,Yes,32,32,64,556.98,1,10.78,1.45,543.75,944.45,21987.4,164.26,9%,101,107,103,27%,118
+Ray R Irani,M,Occidental Petroleum,OXY,Oil & Gas Operations,No,18,26,74,222.64,1.3,3.63,33.32,184.39,743.55,394.3,128.82,28%,106,125,106,14%,106
+John B Hess,M,Hess,HES,Oil & Gas Operations,No,14,32,55,154.58,1.5,3.5,36.66,112.92,234.83,2016.8,39.68,27%,106,125,115,10%,104
+Michael D Watford,M,Ultra Petroleum,UPL,Oil & Gas Operations,No,10,10,55,116.93,0.6,1.75,1.1,113.48,174.17,104.1,29.47,45%,120,142,28,48%,153
+Mark G Papa,M,EOG Resources,EOG,Oil & Gas Operations,No,11,28,62,90.47,0.94,1,18.86,69.67,170.69,51.7,28.92,23%,102,120,92,23%,123
+William R Berkley,M,WR Berkley,WRB,Insurance,Yes,42,42,63,87.48,1,8.5,5.42,72.56,178.29,627.4,30.79,13%,118,111,67,14%,104
+Matthew K Rose,M,Burlington Santa Fe,BNI,Transportation,No,8,16,50,68.62,1.18,1.68,20.7,45.06,140.73,39.8,23.68,19%,114,117,40,13%,117
+Paul J Evanson,M,Allegheny Energy,AYE,Utilities,No,6,17,67,67.26,1.12,1.23,22.28,42.63,143.54,33.1,NA,NA,NA,NA,NA,18%,119
+Hugh Grant,M,Monsanto,MON,Chemicals,No,6,28,51,64.6,1.29,3.33,9.32,50.67,135.3,28,NA,NA,NA,NA,NA,44%,144
+Robert W Lane,M,Deere & Co,DE,Capital Goods,No,9,27,59,61.3,1.44,3.59,15.24,41.04,142.4,11.8,24.13,13%,100,111,109,9%,113
+Keith A Hutton,M,XTO Energy,XTO,Oil & Gas Operations,No,0.5,22,50,54.78,0.94,5.25,2.67,45.92,NA,96.4,NA,NA,NA,NA,NA,NA,NA
+Mark V Hurd,M,Hewlett-Packard,HPQ,Technology Hardware & Equipment,No,4,4,52,51.93,1.45,8.93,31.47,10.08,114.4,17.9,NA,NA,NA,NA,NA,13%,119
+John H Hammergren,M,McKesson,MCK,Drugs & Biotechnology,No,10,13,50,51.29,1.47,3.86,20.91,25.04,137.78,9.4,24.31,7%,102,105,124,2%,105
+Bradbury H Anderson,M,Best Buy,BBY,Retailing,No,7,36,59,49.26,1.17,1.99,0.02,46.08,80.63,92.9,13.96,14%,106,112,68,9%,109
+David J O'Reilly,M,Chevron,CVX,Oil & Gas Operations,No,9,41,62,47.56,1.65,3.22,21.62,21.06,121.62,15.8,21.68,17%,98,115,119,8%,113
+Frederick W Smith,M,FedEx,FDX,Transportation,Yes,38,38,64,44.49,1.43,0,3.54,39.52,131.1,1001.9,22.4,-1%,95,97,165,13%,102
+Robert J Stevens,M,Lockheed Martin,LMT,Aerospace & Defense,No,5,9,57,42.68,1.77,4.25,12.33,24.33,101.39,26.3,NA,NA,NA,NA,NA,9%,111
+Ronald E Hermance Jr,M,Hudson City Bancorp,HCBK,Banking,No,7,21,61,42.27,1.39,2.3,1.03,37.55,65.89,42.8,11.78,15%,122,113,13,19%,122
+Brian L Roberts,M,Comcast,CMCSA,Media,No,6,19,49,39.26,2.77,8.28,6.12,22.1,159.7,283.5,28.99,-4%,105,94,137,-2%,96
+John W Rowe,M,Exelon,EXC,Utilities,No,9,11,63,39.22,1.47,1.84,8.7,27.21,155.13,20.9,26.56,15%,106,113,83,9%,113
+Richard C Adkerson,M,Freeport Copper,FCX,Materials,No,5,20,62,38.66,2.08,0,18.8,17.79,142.85,58.6,NA,NA,NA,NA,NA,4%,106
+Ronald A Williams,M,Aetna,AET,Health Care Equipment & Services,No,3,8,60,38.12,1.1,1.9,2.29,32.83,77.86,28,NA,NA,NA,NA,NA,-19%,89
+Chase Carey,M,DirecTV Group,DTV,Media,No,5,5,55,36.86,2.21,4.2,30.44,0,54.36,15.3,NA,NA,NA,NA,NA,8%,110
+Thomas M Ryan,M,CVS Caremark,CVS,Retailing,No,11,34,56,36.72,1.4,2.35,7.34,25.62,119.14,84.7,21.28,17%,110,115,72,5%,106
+Aubrey K McClendon,M,Chesapeake Energy,CHK,Oil & Gas Operations,Yes,20,20,48,36.01,0.98,1.83,16.35,16.85,189.67,45.4,32.25,19%,99,117,126,19%,112
+J Wayne Leonard,M,Entergy,ETR,Utilities,No,10,11,58,35.14,1.27,2.17,12.86,18.83,72.85,15.4,13.5,9%,101,107,91,11%,113
+James W Stewart Jr,M,BJ Services,BJS,Oil & Gas Operations,No,23,23,64,34.59,1.14,0.58,2.14,30.73,63.87,20.3,11.3,-6%,78,92,173,8%,101
+Leslie Moonves,M,CBS,CBS,Media,No,4,24,60,33.65,5.32,18.5,4.86,4.97,97.08,5.5,NA,NA,NA,NA,NA,-28%,75
+Stephen R Wilson,M,CF Industries Holdings,CF,Chemicals,No,6,18,60,33.07,0.9,1.8,0.11,30.26,41.74,8.7,NA,NA,NA,NA,NA,51%,163
+John C Martin,M,Gilead Sciences,GILD,Drugs & Biotechnology,No,13,19,57,33.05,1.15,1.65,1.77,28.48,139.09,75.1,25.08,29%,123,127,26,28%,123
+Daniel J Starks,M,St Jude Medical,STJ,Health Care Equipment & Services,No,5,25,55,32.24,0.99,1.37,0.07,29.82,70.94,218.4,NA,NA,NA,NA,NA,-1%,101
+Harold M Korell,M,Southwestern Energy,SWN,Oil & Gas Operations,No,10,12,64,31.63,0.68,0.45,4.91,25.59,70.24,74.1,NA,NA,NA,NA,NA,41%,143
+Samuel J Palmisano,M,IBM,IBM,Software & Services,No,7,36,57,30.33,1.8,5.5,8.06,14.97,107.97,77.4,19.41,6%,97,104,149,1%,102
+Steven Roth,M,Vornado Realty,VNO,Diversified Financials,No,20,20,67,30.05,1,0,2.27,26.77,135.68,355,22.98,7%,109,105,82,14%,106
+Marc Holliday,M,SL Green,SLG,Diversified Financials,No,5,11,42,30,0.6,7.5,13.91,7.99,78.76,5.8,NA,NA,NA,NA,NA,-16%,85
+Craig L Martin,M,Jacobs Engineering,JEC,Construction,No,3,15,58,29.77,1.08,1.3,0.01,27.37,37.87,13.2,NA,NA,NA,NA,NA,0%,112
+Ralph Lauren,M,Polo Ralph Lauren,RL,Household & Personal Products,Yes,41,41,69,29.75,1,12,0.45,16.3,105.64,2109.1,18.77,14%,109,112,90,4%,102
+Lewis B Campbell,M,Textron,TXT,Conglomerates,No,11,17,62,28.98,1.1,0.62,11.14,16.12,118.42,4.1,21.13,1%,96,99,170,-6%,94
+Robert W Selander,M,MasterCard,MA,Diversified Financials,No,12,15,57,28.96,0.98,2.29,5.41,20.28,97.45,8.6,NA,NA,NA,NA,NA,58%,178
+James J Murren,M,MGM Mirage,MGM,"Hotels, Restaurants & Leisure",No,0.5,11,47,28.84,1.5,4.74,0.35,22.25,NA,1.3,NA,NA,NA,NA,NA,NA,NA
+Miles D White,M,Abbott Laboratories,ABT,Drugs & Biotechnology,No,10,24,54,27.13,1.8,4.2,7.14,14,99.43,55.7,17.27,5%,100,103,131,1%,103
+K Rupert Murdoch,M,News Corp,NWS.A,Media,No,30,56,78,26.94,8.1,17.5,1.34,0,117.96,2553.8,21.69,-5%,104,93,133,1%,95
+Mark Donegan,M,Precision Castparts,PCP,Aerospace & Defense,No,7,24,51,26.76,1.18,1.83,0.05,23.7,68.41,14.3,11.71,31%,123,129,9,26%,125
+Ivan G Seidenberg,M,Verizon Communications,VZ,Telecommunications Services,No,14,43,62,26.24,2.1,3.74,20.4,0,82.14,60.3,16.09,5%,96,103,161,6%,100
+Lloyd C Blankfein,M,Goldman Sachs Group,GS,Diversified Financials,No,3,28,54,25.84,0.6,0,25.24,0,136.61,273,NA,NA,NA,NA,NA,-6%,105
+Gregg L Engles,M,Dean Foods,DF,Food Drink & Tobacco,No,21,21,51,25.51,1.3,2.35,1.63,20.23,116.38,62.7,21.32,3%,97,101,130,15%,111
+Robert E Beauchamp,M,BMC Software,BMC,Software & Services,No,8,21,49,25.33,0.95,2.23,2.12,20.03,44.01,29.7,7.69,14%,105,112,66,5%,108
+Daniel A DeMatteo,M,Game Stop,GME,Retailing,No,1,13,61,25.21,0.8,1.76,1.14,21.51,NA,11.5,NA,NA,NA,NA,NA,-39%,109
+James C Mullen,M,Biogen Idec,BIIB,Drugs & Biotechnology,No,5,20,50,24.77,1.19,2.4,3.38,17.81,61.84,11.8,NA,NA,NA,NA,NA,6%,108
+Edward J Ludwig,M,"Becton, Dickinson",BDX,Health Care Equipment & Services,No,9,30,57,24.29,1.06,1.53,3.66,18.04,72.63,16.3,12.59,14%,107,112,49,11%,116
+Kent J Thiry,M,DaVita,DVA,Health Care Equipment & Services,No,10,10,53,24.24,0.94,2.1,1.91,19.29,124.79,7.7,22.04,22%,115,120,32,26%,129
+Timothy M Ring,M,CR Bard,BCR,Health Care Equipment & Services,No,6,17,51,23.75,0.99,1.38,3.73,17.65,53.1,16.9,NA,NA,NA,NA,NA,16%,116
+Ronald L Havner Jr,M,Public Storage,PSA,Diversified Financials,No,7,23,51,23.22,0.95,16,0.01,6.26,37.4,2.3,6.37,16%,118,114,7,16%,115
+William H Swanson,M,Raytheon,RTN,Aerospace & Defense,No,6,37,60,23.18,1.23,3.05,11.27,7.63,51.78,30.3,NA,NA,NA,NA,NA,6%,107
+Laurence D Fink,M,BlackRock,BLK,Diversified Financials,No,21,21,56,23.11,0.5,16.15,6.46,0,84.03,199.7,15.43,22%,124,120,14,28%,131
+Murry S Gerber,M,EQT,EQT,Utilities,No,11,11,56,22.95,0.65,2.8,19.5,0,122.47,34.6,20.99,13%,104,111,75,18%,118
+Lewis M Kling,M,Flowserve,FLS,Capital Goods,No,4,5,64,22.31,1.04,2.48,12.2,6.58,39.02,5.4,NA,NA,NA,NA,NA,19%,129
+Robert A Iger,M,Walt Disney,DIS,Media,No,4,35,58,21.34,2,13.95,5.4,0,84.6,11.8,NA,NA,NA,NA,NA,-3%,104
+Jerald G Fishman,M,Analog Devices,ADI,Semiconductors,No,13,38,63,20.96,0.93,1.81,3.72,14.5,72.11,8.7,14.52,-3%,107,95,89,6%,103
+Michael J Ward,M,CSX,CSX,Transportation,No,6,32,58,20.73,1.06,2.03,6.56,11.08,87.54,8.3,14.73,14%,109,112,53,14%,112
+David J Lesar,M,Halliburton,HAL,Oil & Gas Operations,No,9,16,56,19.95,1.3,3.12,12.74,2.79,117.26,20.3,20.31,10%,91,108,175,-3%,100
+Louis C Camilleri,M,Philip Morris Intl,PM,Food Drink & Tobacco,No,1,31,54,19.91,1.57,9.45,3.6,5.3,NA,57.4,NA,NA,NA,NA,NA,-22%,114
+David M Cote,M,Honeywell,HON,Conglomerates,No,7,7,56,19.75,1.83,3.5,14.42,0,70.9,12.9,13.02,8%,103,106,112,1%,102
+Richard D Fairbank,M,Capital One Financial,COF,Diversified Financials,No,15,21,58,19.31,0,0,0.07,19.24,398.76,38.3,66.48,-9%,93,90,174,9%,103
+Ronald L Sargent,M,Staples,SPLS,Retailing,No,7,20,53,19.15,1.11,0.62,4.25,13.18,82.8,37,14.13,10%,103,108,92,9%,110
+Stephen F Angel,M,Praxair,PX,Chemicals,No,2,8,54,18.99,1.03,2.5,0.09,15.37,25.64,9.8,NA,NA,NA,NA,NA,9%,132
+Alan L Boeckmann,M,Fluor,FLR,Construction,No,7,35,60,18.9,1.23,3.07,11.69,2.91,72.39,16.8,12.68,16%,109,114,38,16%,117
+G Steven Farris,M,Apache,APA,Oil & Gas Operations,No,7,21,61,18.69,1.49,0.5,12.47,4.22,57.18,61,9.91,16%,96,114,100,16%,117
+Bruce A Smith,M,Tesoro,TSO,Oil & Gas Operations,No,14,16,66,18.59,1.3,0,11.21,6.08,86.23,17.7,15.1,28%,106,126,88,10%,105
+J Willard Marriott Jr,M,Marriott International,MAR,"Hotels, Restaurants & Leisure",No,36,53,77,18.53,1.25,0.9,3.62,12.75,134.52,815.3,22.81,3%,97,102,154,8%,102
+Christopher M Connor,M,Sherwin-Williams,SHW,Retailing,No,10,26,53,18.13,1.21,0,5.26,11.65,6056,25.4,10.64,15%,107,113,47,13%,116
+Anthony J Alexander,M,FirstEnergy,FE,Utilities,No,5,37,57,18.03,1.33,2.31,7.06,7.33,48.15,10.6,NA,NA,NA,NA,NA,5%,108
+Donald M James,M,Vulcan Materials,VMC,Construction,No,12,17,60,18,1.24,0,6.42,10.34,68.49,13.4,11.75,10%,103,108,96,9%,106
+Steve Sanghi,M,Microchip Technology,MCHP,Semiconductors,No,16,19,53,17.83,0.53,0.76,0,16.54,73.54,100,15.39,6%,118,104,39,16%,110
+Paul E Jacobs,M,Qualcomm,QCOM,Technology Hardware & Equipment,No,4,19,67,17.78,1.11,2.91,0.52,13.24,81.25,67.1,NA,NA,NA,NA,NA,7%,114
+William C Weldon,M,Johnson & Johnson,JNJ,Drugs & Biotechnology,No,7,38,60,17.55,1.79,3.7,9.2,2.86,60.08,21.9,11.12,0%,96,99,152,0%,100
+George Paz,M,Express Scripts,ESRX,Health Care Equipment & Services,No,4,11,54,16.79,0.94,2.45,1.62,11.78,43.64,11.6,NA,NA,NA,NA,NA,23%,130
+Thomas F Farrell II,M,Dominion Resources,D,Utilities,No,3,14,54,16.68,1.19,6.74,4.17,4.59,38.98,21.2,NA,NA,NA,NA,NA,-3%,105
+Ronald D Sugar,M,Northrop Grumman,NOC,Aerospace & Defense,No,6,9,60,16.6,1.51,3.09,11.99,0,47.79,15.8,NA,NA,NA,NA,NA,2%,100
+James D Taiclet Jr,M,American Tower,AMT,Telecommunications Services,No,6,8,48,16.41,0.88,1.09,0.03,14.43,34.86,0.7,NA,NA,NA,NA,NA,24%,125
+Hans Helmerich,M,Helmerich & Payne,HP,Oil & Gas Operations,No,20,20,50,16.01,0.6,1.11,0.12,14.18,33.96,18.7,5.75,16%,96,114,126,12%,103
+Alexander M Cutler,M,Eaton,ETN,Capital Goods,No,9,34,57,15.99,1.13,0.32,5.5,9.04,81.51,29.4,14.79,5%,94,104,132,6%,111
+Kenneth I Chenault,M,American Express,AXP,Diversified Financials,No,8,28,57,15.89,1.25,0,9.5,5.14,98.28,19.3,18.52,-6%,95,92,171,-9%,93
+John D Finnegan,M,Chubb,CB,Insurance,No,6,6,60,15.68,1.28,3.36,11.05,0,85.67,30.9,15.23,13%,118,111,44,8%,108
+Steven W Alesio,M,Dun & Bradstreet,DNB,Business Services & Supplies,No,4,8,54,15.5,0.98,1.09,2.55,10.88,37.47,11.3,NA,NA,NA,NA,NA,8%,114
+David M Zaslav,M,Discovery Communications,DISCA,Media,No,2,2,49,15.48,2,3.5,0.3,9.68,NA,0,NA,NA,NA,NA,NA,0%,121
+W James McNerney Jr,M,Boeing,BA,Aerospace & Defense,No,4,4,59,15.41,1.92,1.48,12.02,0,48.09,15.1,NA,NA,NA,NA,NA,-10%,95
+Martin L Orlowski,M,Lorillard,LO,Food Drink & Tobacco,No,10,10,67,15,2.2,11.7,0.76,0.34,NA,2.1,NA,NA,NA,NA,NA,17%,119
+Christopher J Kearney,M,SPX,SPX,Conglomerates,No,4,12,53,14.15,1.05,2.73,10.37,0,37.88,21.6,NA,NA,NA,NA,NA,8%,114
+Walter C Rakowich,M,ProLogis,PLD,Diversified Financials,No,0.5,15,51,14.1,0.63,0.42,3.3,9.75,NA,2.6,NA,NA,NA,NA,NA,NA,NA
+Timothy P Smucker,M,JM Smucker,SJM,Food Drink & Tobacco,No,8,22,64,14.05,0.73,0.89,3.75,8.67,26.1,63.1,4.59,5%,99,103,77,8%,112
+Lewis Hay III,M,FPL Group,FPL,Utilities,No,8,10,53,13.94,1.26,2.4,10.28,0,58.54,24.2,10.42,14%,105,112,56,11%,114
+Peter J Rose,M,Expeditors Intl,EXPD,Transportation,No,21,28,66,13.74,0.11,5.82,0,7.81,45.67,38.9,8.11,11%,106,109,51,22%,113
+David N Farr,M,Emerson Electric,EMR,Conglomerates,No,9,28,54,13.67,1.2,3,9.04,0.43,49.6,32.8,8.63,8%,103,106,94,2%,106
+Robert A Eckert,M,Mattel,MAT,Household & Personal Products,No,9,9,54,13.2,1.25,0,1.72,10.23,31.68,0.4,7.42,-5%,91,93,138,3%,107
+Nicholas D Chabraja,M,General Dynamics,GD,Aerospace & Defense,No,12,16,66,13.17,1.38,4.5,7.29,0,144.77,80.6,25.67,11%,104,109,110,9%,107
+John V Faraci,M,International Paper,IP,Materials,No,6,35,59,13.03,1.26,1.58,10.2,0,42.43,10.3,NA,NA,NA,NA,NA,-23%,78
+John D Wren,M,Omnicom Group,OMC,Media,No,12,25,56,12.98,1,1.75,0.2,10.03,90.76,26.9,15.73,1%,110,99,69,8%,105
+Steven R Loranger,M,ITT,ITT,Conglomerates,No,5,5,57,12.88,1.12,2.53,9.23,0,40.11,12.4,NA,NA,NA,NA,NA,0%,104
+William P Sullivan,M,Agilent Technologies,A,Technology Hardware & Equipment,No,4,33,60,12.87,0.99,1.31,8.85,1.73,35.19,3.9,NA,NA,NA,NA,NA,-7%,98
+Jay S Fishman,M,Travelers Cos,TRV,Insurance,No,5,8,56,12.85,1,5,6.85,0,39.82,12.4,NA,NA,NA,NA,NA,3%,107
+Theodore M Solso,M,Cummins,CMI,Capital Goods,No,9,38,62,12.61,1.21,1.06,10.33,0,57.15,20.4,10.32,32%,117,129,15,12%,117
+Joel F Gemunder,M,Omnicare,OCR,Health Care Equipment & Services,No,28,28,69,12.55,1.67,0,10.88,0,67.01,50.7,12.14,0%,94,98,159,8%,98
+Kenneth D Lewis,M,Bank of America,BAC,Banking,No,8,40,62,12.52,1.5,0,11.02,0,147.5,32.2,29.67,-16%,90,83,179,-8%,94
+John F Coyne,M,Western Digital,WDC,Technology Hardware & Equipment,No,2,26,59,12.52,0.8,2.14,9.5,0.08,20.73,3.2,NA,NA,NA,NA,NA,3%,125
+James A Skinner,M,McDonald's,MCD,"Hotels, Restaurants & Leisure",No,4,38,64,12.32,1.26,3.06,2.92,5.08,35.86,15.9,NA,NA,NA,NA,NA,19%,125
+Howard L Lance,M,Harris,HRS,Technology Hardware & Equipment,No,6,6,53,12.25,0.97,1.42,3.35,6.5,46.37,8.1,NA,NA,NA,NA,NA,13%,110
+Philippe P Dauman,M,Viacom,VIA.B,Media,No,3,3,55,12.11,2,7,3.11,0,NA,5.6,NA,NA,NA,NA,NA,-21%,90
+Michael A Farrell,M,Annaly Capital Management,NLY,Diversified Financials,Yes,12,12,57,12.05,2.43,9.62,0,0,31.6,29.4,5.82,5%,107,103,42,12%,112
+Jeffrey L Bewkes,M,Time Warner,TWX,Media,No,1,23,56,11.94,1.75,7.6,2.59,0,NA,5.9,NA,NA,NA,NA,NA,-30%,102
+Andrea Jung,F,Avon Products,AVP,Household & Personal Products,No,10,15,50,11.76,1.38,1.69,6.39,2.31,44.08,7.1,9.13,-2%,94,96,128,5%,108
+John P Surma,M,US Steel,X,Materials,No,5,12,54,11.74,1.22,3.25,3.99,3.28,50.17,5.6,NA,NA,NA,NA,NA,-7%,96
+Jeffrey R Immelt,M,General Electric,GE,Conglomerates,No,8,27,53,11.55,3.3,0,7.65,0.6,70.93,36.5,14.38,-11%,85,88,178,-12%,88
+Gregory H Boyce,M,Peabody Energy,BTU,Materials,No,3,6,54,11.55,1.05,2.07,0.93,7.49,50.48,3.8,NA,NA,NA,NA,NA,-8%,100
+Jeffrey Noddle,M,Supervalu,SVU,Food Markets,No,8,33,63,11.49,1.13,1.3,4.79,4.26,34.22,8.2,5.87,1%,98,99,118,0%,102
+David M Wood,M,Murphy Oil,MUR,Oil & Gas Operations,No,0.5,15,51,11.44,0.67,0.63,0.05,10.09,NA,0.6,NA,NA,NA,NA,NA,NA,NA
+David C Novak,M,Yum Brands,YUM,"Hotels, Restaurants & Leisure",No,9,23,56,11.43,1.39,4.06,5.98,0,157.17,38,27.67,18%,111,116,50,14%,118
+Lew Frankfort,M,Coach,COH,Household & Personal Products,No,14,30,63,11.3,1.16,1.61,4.58,3.96,219.86,60.7,44.27,12%,107,110,60,26%,132
+Douglas R Conant,M,Campbell Soup,CPB,Food Drink & Tobacco,No,8,8,57,11.29,1.18,1.87,3.16,5.09,30.37,9.6,5.53,6%,100,104,105,0%,102
+Fred Hassan,M,Schering-Plough,SGP,Drugs & Biotechnology,No,6,6,63,11.14,1.67,4.03,5.44,0,47.36,21.8,NA,NA,NA,NA,NA,6%,105
+Michael Balmuth,M,Ross Stores,ROST,Retailing,No,13,20,58,11.09,1.03,1.72,4.81,3.53,55.9,9.5,10.85,15%,1,113,48,19%,114
+James L Dolan,M,Cablevision Systems,CVC,Media,No,14,22,54,11.07,1.8,4.43,4.84,0,79,16.4,13.98,5%,115,103,69,5%,100
+William R Johnson,M,HJ Heinz,HNZ,Food Drink & Tobacco,No,11,27,60,11.05,1.14,4.7,5.21,0,40.79,20.4,7.29,6%,99,104,125,0%,100
+Michael T Fries,M,Liberty Global,LBTYA,Media,No,4,11,46,11.03,0.92,1.6,1.86,6.65,22.09,4.1,NA,NA,NA,NA,NA,-7%,99
+James W Owens,M,Caterpillar,CAT,Capital Goods,No,5,37,63,10.99,1.51,2.24,2.72,4.51,36.88,10.4,NA,NA,NA,NA,NA,-1%,101
+Chad C Deaton,M,Baker Hughes,BHI,Oil & Gas Operations,No,5,5,56,10.99,1.16,1.3,8.53,0,25.93,8.1,NA,NA,NA,NA,NA,-6%,96
+Stephen A Roell,M,Johnson Controls,JCI,Consumer Durables,No,2,27,59,10.9,1.33,0,9.58,0,NA,9.4,NA,NA,NA,NA,NA,-42%,82
+C Robert Henrikson,M,MetLife,MET,Insurance,No,3,37,61,10.71,1,3.25,4.1,2.36,31.22,1.5,NA,NA,NA,NA,NA,-16%,92
+Rex W Tillerson,M,ExxonMobil,XOM,Oil & Gas Operations,No,3,34,56,10.53,1.87,4,4.66,0,30.56,56.2,NA,NA,NA,NA,NA,8%,119
+James E O'Connor,M,Republic Services,RSG,Business Services & Supplies,No,10,10,59,10.5,0.93,0,8,1.57,34.76,8.7,6.04,8%,105,106,62,5%,106
+Michael L Bennett,M,Terra Industries,TRA,Chemicals,No,8,26,55,10.47,0.59,1.71,8.17,0,20.78,16.1,3.55,64%,141,161,1,28%,131
+James J Mulva,M,ConocoPhillips,COP,Oil & Gas Operations,No,10,36,62,10.44,1.5,1.42,0.52,7,100.72,122.8,1,11%,92,109,145,7%,111
+Wayne T Smith,M,Community Health Systems,CYH,Health Care Equipment & Services,No,12,12,63,10.3,1.08,2.07,7.15,0,41.09,19,7.12,-4%,90,94,143,1%,105
+Jeff M Fettig,M,Whirlpool,WHR,Consumer Durables,No,5,28,52,10.29,1.26,0.42,8.5,0.11,32.85,10.9,NA,NA,NA,NA,NA,-10%,92
+H Edward Hanway,M,Cigna,CI,Health Care Equipment & Services,No,9,31,57,10.27,1.14,6.65,0.89,1.58,121.35,21.5,21.8,5%,99,103,149,0%,102
+Mayo A Shattuck III,M,Constellation Energy,CEG,Utilities,No,8,8,54,10.25,1.2,5.5,3.55,0,83.45,5.5,14.21,0%,92,98,158,3%,104
+Martin M Koffel,M,URS,URS,Construction,No,20,20,70,10.02,0.99,2,7.03,0,40.86,32.9,6.96,23%,116,121,57,1%,94
+Michael G Morris,M,American Electric,AEP,Utilities,No,5,5,62,9.9,1.26,1.65,6.99,0,47.73,12.5,NA,NA,NA,NA,NA,1%,104
+David W Crane,M,NRG Energy,NRG,Utilities,No,5,5,50,9.68,1.1,1.92,0.06,6.6,29.23,4.5,NA,NA,NA,NA,NA,14%,116
+Kevin W Sharer,M,Amgen,AMGN,Drugs & Biotechnology,No,9,17,61,9.65,1.56,3.88,0.53,3.69,60.77,12.1,11.69,-3%,92,95,159,-2%,100
+Robert A Niblock,M,Lowe's Companies,LOW,Retailing,No,4,16,46,9.65,1.1,1.5,5.81,1.24,23.41,20.7,NA,NA,NA,NA,NA,-6%,98
+Timothy E Guertin,M,Varian Medical Systems,VAR,Health Care Equipment & Services,No,3,34,60,9.56,0.83,1.68,0.2,6.85,23.53,4.2,NA,NA,NA,NA,NA,-17%,92
+Michael E Szymanczyk,M,Altria Group,MON,Food Drink & Tobacco,No,1,19,60,9.53,1.2,2.8,4.92,0.62,NA,15.3,NA,NA,NA,NA,NA,-22%,113
+John W Conway,M,Crown Holdings,CCK,Materials,No,8,35,63,9.51,1.08,3.56,4.88,0,35.34,27.3,6.26,25%,107,122,34,12%,115
+William R Klesse,M,Valero Energy,VLO,Oil & Gas Operations,No,3,40,62,9.48,1.5,0.71,2.07,5.21,52.3,16.2,NA,NA,NA,NA,NA,-23%,84
+David B Snow Jr,M,Medco Health,MHS,Health Care Equipment & Services,No,6,6,54,9.46,1.28,3,5.18,0,44.32,13.4,NA,NA,NA,NA,NA,28%,128
+Indra K Nooyi,F,PepsiCo,PEP,Food Drink & Tobacco,No,3,15,53,9.36,1.3,2.6,1.56,3.9,26.21,11.8,NA,NA,NA,NA,NA,-6%,108
+Susan M Ivey,F,Reynolds American,RAI,Food Drink & Tobacco,No,5,28,50,9.35,1.25,1.73,6.37,0,26.6,4.9,NA,NA,NA,NA,NA,7%,111
+Mark G Parker,M,NIKE,NKE,Household & Personal Products,No,3,30,53,9.34,1.38,1.93,2.02,4.01,29.51,8.6,NA,NA,NA,NA,NA,9%,120
+Bernard J Poussot,M,Wyeth,WYE,Drugs & Biotechnology,No,1,23,57,9.33,1.45,2.75,5.13,0,NA,17.1,NA,NA,NA,NA,NA,0%,147
+Ramani Ayer,M,Hartford Financial Services,HIG,Insurance,No,12,36,61,9.29,1.15,0,2.41,5.73,77.86,4.2,13.54,-17%,87,82,177,-7%,90
+Mark C Pigott,M,Paccar,PCAR,Capital Goods,No,12,32,55,9.28,1.35,0,1.43,6.51,47.37,103.7,8.43,16%,103,114,61,17%,114
+Anne M Mulcahy,F,Xerox,XRX,Business Services & Supplies,No,8,33,56,9.24,1.32,0.99,6.93,0,41.7,7.1,7.48,-7%,90,91,164,-4%,97
+Alan D Wilson,M,McCormick & Co,MKC,Food Drink & Tobacco,No,1,16,51,9.18,0.74,3.72,0.47,4.25,NA,0.7,NA,NA,NA,NA,NA,-16%,122
+J Larry Nichols,M,Devon Energy,DVN,Oil & Gas Operations,No,29,38,66,9.09,1.2,2.6,5.29,0,38.34,84.8,6.85,14%,95,112,141,11%,102
+Lawrence W Kellner,M,Continental Airlines,CAL,Transportation,No,4,14,50,9.07,0.71,1.02,7.34,0,26.16,0.3,NA,NA,NA,NA,NA,0%,105
+Robert A Kotick,M,Activision Blizzard,ATVI,Software & Services,No,18,18,45,8.99,0.9,5,3.09,0,12.4,36.2,5.14,35%,125,133,33,7%,100
+Gerard J Arpey,M,AMR,AMR,Transportation,No,6,27,50,8.89,0.66,0,6.68,1.55,11.85,0,NA,NA,NA,NA,NA,2%,101
+Gareth Roberts,M,Denbury Resources,DNR,Oil & Gas Operations,No,17,19,56,8.84,0.48,0.38,3.02,4.96,21.12,35,NA,NA,NA,NA,NA,20%,115
+Brian D Jellison,M,Roper Industries,ROP,Capital Goods,No,8,8,63,8.72,0.95,1.9,5.87,0,20.58,35.1,3.65,22%,108,120,20,12%,114
+Donald E Felsinger,M,Sempra Energy,SRE,Utilities,No,3,37,61,8.71,1.14,2.53,5.04,0,36.22,21.4,NA,NA,NA,NA,NA,3%,113
+Marijn E Dekkers,M,Thermo Fisher,TMO,Health Care Equipment & Services,No,6,9,51,8.61,1.16,1.87,0.83,4.75,104.64,4.9,17.97,13%,106,111,78,10%,109
+James H Miller,M,PPL,PPL,Utilities,No,3,8,60,8.6,1.14,0,3.53,3.93,13.97,3.8,NA,NA,NA,NA,NA,-1%,114
+Andrew N Liveris,M,Dow Chemical,DOW,Chemicals,No,5,33,55,8.53,1.64,0,6.89,0,31.25,2.3,NA,NA,NA,NA,NA,-24%,78
+James Dimon,M,JPMorgan Chase,JPM,Banking,No,3,9,53,8.52,1,0,7.52,0,97.4,163.1,NA,NA,NA,NA,NA,-2%,106
+John A Swainson,M,CA,CA,Software & Services,No,4,5,54,8.44,1,2.15,5.28,0,20.79,7.7,NA,NA,NA,NA,NA,-8%,96
+Glenn F Tilton,M,UAL,UAUA,Transportation,No,7,7,61,8.42,0.85,0.42,4.9,2.25,17.12,2,NA,NA,NA,NA,NA,-43%,62
+Jeffrey C Sprecher,M,IntercontinentalExchange,ICE,Diversified Financials,No,7,12,54,8.39,0.78,1.37,6.21,0.03,106.26,201.9,NA,NA,NA,NA,NA,27%,138
+A D David MacKay,M,Kellogg,K,Food Drink & Tobacco,No,2,24,53,8.23,1.14,2.6,4.49,0,20.91,9.7,NA,NA,NA,NA,NA,-7%,112
+James D Sinegal,M,Costco Wholesale,COST,Retailing,Yes,21,26,73,8.23,0.35,0.08,1.07,6.73,35.27,108.8,6.19,7%,100,105,95,15%,106
+L Patrick Hassey,M,Allegheny Technologies,ATI,Materials,No,6,6,63,8.18,0.91,2.15,5.12,0,97.72,15,NA,NA,NA,NA,NA,30%,132
+Edward H Linde,M,Boston Properties,BXP,Diversified Financials,Yes,39,39,69,8.17,0.95,1.98,2.45,2.8,120.66,367.9,20.37,9%,111,107,59,10%,109
+Michael T Strianese,M,L-3 Communications,LLL,Aerospace & Defense,No,3,12,53,7.94,1.15,2.75,0.1,3.95,14.05,0.1,NA,NA,NA,NA,NA,-1%,110
+James T Hackett,M,Anadarko Petroleum,APC,Oil & Gas Operations,No,5,5,55,7.92,1.51,3.42,3,0,60.53,10.3,NA,NA,NA,NA,NA,13%,115
+Roy Vallee,M,Avnet,AVT,Technology Hardware & Equipment,No,11,32,56,7.85,1,0.89,3.71,2.25,25.78,7.6,4.48,10%,101,108,102,-3%,97
+Thomas J Falk,M,Kimberly-Clark,KMB,Household & Personal Products,No,7,26,51,7.77,1.22,0.94,5.6,0,36.08,28.5,6.45,4%,100,102,121,0%,98
+Clarence P Cazalot Jr,M,Marathon Oil,MRO,Oil & Gas Operations,No,7,9,58,7.75,1.38,1.7,4.66,0,80,19.8,13.99,20%,99,117,98,12%,115
+Richard T Clark,M,Merck & Co,MRK,Drugs & Biotechnology,No,4,37,63,7.74,1.78,2.24,3.72,0,21.96,6.5,NA,NA,NA,NA,NA,-2%,102
+Kenneth C Dahlberg,M,SAIC,SAI,Aerospace & Defense,No,6,6,53,7.71,1,1.47,0.35,4.89,21.33,10.7,NA,NA,NA,NA,NA,-1%,116
+John R Strangfeld Jr,M,Prudential Financial,PRU,Insurance,No,1,32,55,7.7,0.97,3.3,3.43,0,NA,4.8,NA,NA,NA,NA,NA,-60%,58
+Charles D Davidson,M,Noble Energy,NBL,Oil & Gas Operations,No,9,9,59,7.64,1.03,1.44,5.18,0,22.82,13.3,4.04,25%,104,123,36,15%,120
+John C Plant,M,TRW Automotive Holdings,TRW,Consumer Durables,No,8,18,55,7.57,1.67,2.52,3.38,0,53.43,2.3,NA,NA,NA,NA,NA,-24%,78
+Gregory E Johnson,M,Franklin Resources,BEN,Diversified Financials,No,5,23,47,7.56,0.78,2.4,4.38,0,47.78,97.1,NA,NA,NA,NA,NA,4%,107
+J Brett Harvey,M,Consol Energy,CNX,Materials,No,11,11,58,7.54,1,1.83,4.71,0,33.05,5.7,5.61,24%,106,121,31,17%,121
+Mark P Mays,M,CC Media Holdings,CCMO,Media,No,5,16,45,7.52,0.9,6.63,0,0,19.38,1.7,NA,NA,NA,NA,NA,-95%,7
+Gary C Butler,M,Automatic Data,ADP,Business Services & Supplies,No,3,34,62,7.49,0.9,2.58,2.15,1.86,18.94,12.1,NA,NA,NA,NA,NA,-3%,110
+John C Lechleiter,M,Eli Lilly & Co,LLY,Drugs & Biotechnology,No,1,30,55,7.35,1.34,2.71,3.31,0,NA,7.5,NA,NA,NA,NA,NA,-33%,101
+James M Cornelius,M,Bristol-Myers Squibb,BMY,Drugs & Biotechnology,No,3,4,65,7.32,1.49,4.48,1.35,0,13.08,5.3,NA,NA,NA,NA,NA,-2%,112
+Marshall O Larsen,M,Goodrich,GR,Aerospace & Defense,No,6,32,60,7.31,1.1,2.17,2,2.04,28.67,4.1,NA,NA,NA,NA,NA,21%,119
+Ian M Cook,M,Colgate-Palmolive,CL,Household & Personal Products,No,2,33,57,7.27,1.08,3.16,1.51,1.52,NA,9,NA,NA,NA,NA,NA,-2%,130
+H Lawrence Culp Jr,M,Danaher,DHR,Conglomerates,No,8,19,46,7.22,1.1,3.27,0.58,2.27,51.46,10.1,9.37,10%,105,108,62,9%,112
+Michael T Duke,M,Wal-Mart Stores,WMT,Retailing,No,0.5,14,58,7.19,0.98,4.46,0.95,0.8,NA,27,NA,NA,NA,NA,NA,NA,NA
+Wendell P Weeks,M,Corning,GLW,Technology Hardware & Equipment,No,4,26,49,7.08,1.03,0.3,5.75,0,54.27,11.6,NA,NA,NA,NA,NA,2%,108
+James A C Kennedy,M,T Rowe Price,TROW,Diversified Financials,No,2,31,56,7.04,0.35,3.85,0.05,2.79,30.62,84.3,NA,NA,NA,NA,NA,-9%,110
+R David Yost,M,AmerisourceBergen,ABC,Drugs & Biotechnology,No,12,35,62,7.02,1.18,2.72,0.13,2.99,28.64,25.5,5.37,5%,100,103,80,10%,108
+John H Pinkerton,M,Range Resources,RRC,Oil & Gas Operations,No,17,19,55,7.01,0.56,0.95,3.51,2,26.81,62.3,4.6,50%,125,147,8,15%,108
+Louis A Raspino,M,Pride International,PDE,Oil & Gas Operations,No,4,5,56,6.96,0.93,1.03,1.86,3.14,16.65,3.3,NA,NA,NA,NA,NA,-3%,103
+Robert L Parkinson Jr,M,Baxter International,BAX,Health Care Equipment & Services,No,5,5,58,6.87,1.34,2.71,2.82,0,23.88,9.3,NA,NA,NA,NA,NA,11%,115
+Walter W Bettinger II,M,Charles Schwab,SCHW,Diversified Financials,No,1,14,48,6.87,0.79,1.94,4.13,0,NA,8.3,NA,NA,NA,NA,NA,-49%,86
+Craig S Donohue,M,CME Group,CME,Diversified Financials,No,5,20,47,6.86,0.85,0.64,0.94,4.43,43.6,5.4,NA,NA,NA,NA,NA,28%,132
+William P Lauder,M,Estee Lauder Cos,EL,Household & Personal Products,No,5,23,49,6.82,1.5,3.07,0.9,1.35,23.62,181.3,NA,NA,NA,NA,NA,-10%,92
+Edward R Muller,M,Mirant,MIR,Utilities,No,4,4,57,6.81,1.13,1.2,4.48,0,14.5,3.6,NA,NA,NA,NA,NA,-17%,89
+Robert J Keegan,M,Goodyear,GT,Consumer Durables,No,6,9,61,6.77,1.22,0,4.82,0.73,49.19,2.8,8.45,9%,127,107,40,3%,102
+Douglas A Berthiaume,M,Waters,WAT,Health Care Equipment & Services,No,15,29,60,6.76,0.74,1.47,0.13,4.42,136.65,113.2,28.35,12%,105,110,84,19%,1144
+Charles W Shivery,M,Northeast Utilities,NU,Utilities,No,5,7,63,6.74,1.07,1.52,4.16,0,18.54,1.1,NA,NA,NA,NA,NA,4%,107
+Steven J Malcolm,M,Williams Cos,WMB,Utilities,No,7,25,60,6.74,1.05,2.1,3.27,0.32,24.81,9.2,4.3,18%,109,116,64,-6%,94
+Thomas A Gerke,M,Embarq,EQ,Telecommunications Services,No,1,15,53,6.66,0.47,0.51,1.48,4.2,NA,2.1,NA,NA,NA,NA,NA,-12%,127
+Robert J Coury,M,Mylan,MYL,Drugs & Biotechnology,No,7,7,48,6.65,1.5,3.75,1.4,0,26.46,7.5,4.82,-4%,91,94,151,0%,99
+Alan G Lafley,M,Hasbro,HAS,Household & Personal Products,No,1,9,45,6.62,0.92,2.5,0.33,2.86,NA,4.3,NA,NA,NA,NA,NA,-22%,129
+Alan G Lafley,M,Procter & Gamble,PG,Household & Personal Products,No,9,32,61,6.61,1.7,4,0.91,0,61.61,41.9,11.08,4%,99,102,96,8%,113
+Randall L Stephenson,M,AT&T,T,Telecommunications Services,No,2,5,49,6.6,1.42,0,5.18,0,NA,14.1,NA,NA,NA,NA,NA,-16%,110
+Carol M Meyrowitz,F,TJX Cos,TJX,Retailing,No,2,26,55,6.55,1.4,2.31,2.84,0,NA,12.8,NA,NA,NA,NA,NA,-1%,120
+James F Flaherty III,M,HCP,HCP,Diversified Financials,No,6,7,51,6.54,0.6,2,3.94,0,19.3,14.3,NA,NA,NA,NA,NA,8%,107
+William C Rhodes III,M,AutoZone,AZO,Retailing,No,4,15,43,6.53,0.71,0.78,0.13,4.91,9.87,1.5,NA,NA,NA,NA,NA,16%,124
+Thomas J Quinlan III,M,RR Donnelley & Sons,RRD,Media,No,2,5,46,6.47,0.78,1.75,3.93,0,NA,2.2,NA,NA,NA,NA,NA,-45%,67
+David M Ratcliffe,M,Southern Co,SO,Utilities,No,5,38,60,6.47,1.12,1.68,3.66,0,24.59,0.6,NA,NA,NA,NA,NA,6%,110
+Muhtar Kent,M,Coca-Cola,KO,Food Drink & Tobacco,No,1,4,56,6.35,1.1,4.5,0.75,0,NA,7.9,NA,NA,NA,NA,NA,-12%,142
+Daniel P Amos,M,Aflac,AFL,Insurance,No,19,36,57,6.32,1.34,0,4.12,0.86,127.26,139.9,24.41,-3%,101,95,121,15%,107
+Joseph M Tucci,M,EMC,EMC,Technology Hardware & Equipment,No,8,9,61,6.26,1,1.39,3.88,0,43.56,27.2,7.82,9%,100,107,129,-18%,84
+Lynn R Blodgett,M,Affiliated Computer,ACS,Software & Services,No,2,19,54,6.26,0.75,1.13,0.21,4.18,8.74,0.2,NA,NA,NA,NA,NA,0%,120
+Peter D Kinnear,M,FMC Technologies,FTI,Oil & Gas Operations,No,2,38,61,6.2,0.89,1.56,3.74,0,NA,3.4,NA,NA,NA,NA,NA,5%,130
+Robert Greifeld,M,Nasdaq OMX Group,NDAQ,Diversified Financials,No,6,6,51,6.2,1,3.8,1.4,0,32.67,4.6,NA,NA,NA,NA,NA,23%,122
+Richard W Evans Jr,M,Cullen/Frost Bankers,CFR,Banking,No,12,38,62,6.13,0.77,0.54,1.67,3.14,27.79,25.8,4.8,11%,118,109,15,8%,107
+David P King,M,Laboratory Corp Amer,LH,Health Care Equipment & Services,No,2,8,52,6.1,0.79,0.77,4.54,0,10.9,5,NA,NA,NA,NA,NA,-8%,111
+R David Hoover,M,Ball,BLL,Materials,No,8,39,63,5.99,1.1,0.92,3.96,0,39.12,36,7.42,8%,93,106,101,19%,123
+Gale E Klappa,M,Wisconsin Energy,WEC,Utilities,No,5,6,58,5.9,1.13,2.33,2.44,0,21.29,1.6,NA,NA,NA,NA,NA,8%,111
+Louis R Chenevert,M,United Technologies,UTX,Conglomerates,No,1,16,51,5.88,1.32,3,1.56,0,NA,8.9,NA,NA,NA,NA,NA,-31%,104
+Merrill A Miller Jr,M,National Oilwell Varco,NOV,Oil & Gas Operations,No,8,13,58,5.87,0.95,1.83,3.09,0,29.73,18.4,5.15,21%,100,118,74,7%,110
+Lon R Greenberg,M,UGI,UGI,Utilities,No,14,20,59,5.85,1.03,0.96,0.08,3.78,44.89,10.9,8.59,10%,102,108,84,14%,109
+Richard K Templeton,M,Texas Instruments,TXN,Semiconductors,No,5,29,50,5.84,0.96,1.56,3.32,0,36.86,12.9,NA,NA,NA,NA,NA,-6%,96
+Jeffrey R Gardner,M,Windstream,WIN,Telecommunications Services,No,3,11,49,5.84,0.98,1.79,3.07,0,12.73,11.2,NA,NA,NA,NA,NA,-2%,108
+Stanley A Lybarger,M,BOK Financial,BOKF,Banking,No,13,35,59,5.84,0.83,1.24,0.68,3.08,20.86,6,3.92,5%,112,103,26,11%,107
+Paul S Otellini,M,Intel,INTC,Semiconductors,No,4,35,58,5.83,1,3.87,0.81,0.15,35.03,12.6,NA,NA,NA,NA,NA,-9%,95
+Joseph W Saunders,M,Visa,V,Diversified Financials,No,2,2,46,5.83,0.95,4.51,0.37,0,NA,7.9,NA,NA,NA,NA,NA,4%,149
+Paul T Hanrahan,M,AES,AES,Utilities,No,7,22,51,5.77,1,1.76,3.02,0,43.29,2.7,7.59,7%,99,105,115,4%,105
+James M Cracchiolo,M,Ameriprise Financial,AMP,Diversified Financials,No,9,27,51,5.76,0.85,0,4.91,0,47.75,4,NA,NA,NA,NA,NA,-10%,97
+Thomas R Watjen,M,Unum Group,UNM,Insurance,No,6,15,54,5.73,1.09,2.27,2.37,0,21.34,10.7,3.86,9%,113,107,29,8%,106
+Peter McCausland,M,Airgas,ARG,Chemicals,No,22,23,59,5.69,0.75,1.32,0.01,3.61,15.84,292.5,3.69,14%,98,112,87,16%,108
+John P Wiehoff,M,CH Robinson Worldwide,CHRW,Transportation,No,7,17,47,5.68,0.4,1.31,2.4,1.57,28.22,46.3,4.92,21%,115,118,3,18%,119
+Irene B Rosenfeld,F,Kraft Foods,KFT,Food Drink & Tobacco,No,3,3,55,5.68,1.45,4.07,0.15,0,16.67,18.8,NA,NA,NA,NA,NA,-8%,102
+Charles W Moorman IV,M,Norfolk Southern,NSC,Transportation,No,4,39,57,5.64,0.95,1.76,0.13,2.8,16.52,8,NA,NA,NA,NA,NA,0%,107
+Neil Smit,M,Charter Commun,CHTR,Media,No,4,4,50,5.63,1.2,2.47,1.38,0.59,13.18,0,NA,NA,NA,NA,NA,-63%,39
+Charles E Bunch,M,PPG Industries,PPG,Chemicals,No,4,30,59,5.58,1.04,1.75,2.79,0,17.08,7.2,NA,NA,NA,NA,NA,-7%,97
+Leslie H Wexner,M,Limited Brands,LTD,Retailing,Yes,46,46,71,5.58,1.91,1.52,2.14,0,107.16,588.6,18.85,0%,93,98,162,15%,104
+Martin H Richenhagen,M,AGCO,AG,Capital Goods,No,5,5,57,5.54,1.02,1.12,3.39,0,15.66,6.9,NA,NA,NA,NA,NA,4%,107
+George W Buckley,M,3M,MMM,Conglomerates,No,3,3,62,5.48,1.72,2.64,1.11,0,25.78,1.9,NA,NA,NA,NA,NA,-8%,100
+Gary M Rodkin,M,ConAgra Foods,CAG,Food Drink & Tobacco,No,4,4,57,5.44,1,1.8,2.64,0,15.86,5.2,NA,NA,NA,NA,NA,-5%,101
+Peter R Huntsman,M,Huntsman,HUN,Chemicals,No,9,22,46,5.4,1.46,1.75,2.18,0,20.24,203.9,NA,NA,NA,NA,NA,-33%,70
+Daniel R Hesse,M,Sprint Nextel,S,Telecommunications Services,No,1,1,56,5.39,1.2,2.65,1.54,0,NA,7.5,NA,NA,NA,NA,NA,-58%,59
+David P Steiner,M,Waste Management,WMI,Business Services & Supplies,No,5,19,48,5.39,1.07,1.05,3.28,0,19.33,8.6,NA,NA,NA,NA,NA,0%,104
+Jeffrey M Ettinger,M,Hormel Foods,HRL,Food Drink & Tobacco,No,3,19,50,5.39,0.91,1.34,2.24,0.89,11.79,3,NA,NA,NA,NA,NA,0%,110
+Myron E Ullman III,M,JC Penney,JCP,Retailing,No,4,4,62,5.39,1.5,1.41,2.48,0,29.2,6.1,NA,NA,NA,NA,NA,-7%,97
+Ronald E Logue,M,State Street,STT,Diversified Financials,No,5,19,63,5.36,1,0,4.36,0,58.24,9.7,NA,NA,NA,NA,NA,-4%,98
+Glenn K Murphy,M,Gap,GPS,Retailing,No,2,2,47,5.35,1.5,3.02,0.83,0,NA,2.3,NA,NA,NA,NA,NA,-4%,127
+Donald J Tomnitz,M,DR Horton,DHI,Construction,No,10,26,60,5.29,0.3,1.85,0.04,3.11,56.87,11.2,10.62,2%,96,100,120,9%,110
+Peter Swinburn,M,Molson Coors Brewing,TAP,Food Drink & Tobacco,No,1,35,56,5.27,0.75,0.82,3.7,0,NA,2.2,NA,NA,NA,NA,NA,-41%,94
+Paul C Varga,M,Brown-Forman,BF.B,Food Drink & Tobacco,No,4,22,45,5.25,0.99,2.05,1.08,1.13,13.54,5.4,NA,NA,NA,NA,NA,0%,107
+Daniel R DiMicco,M,Nucor,NUE,Materials,No,9,27,58,5.24,0.8,2.16,1.89,0.39,29.46,18,5.27,32%,113,129,6,22%,127
+Peter A Darbee,M,PG&E,PCG,Utilities,No,4,10,56,5.2,1.09,1.29,2.27,0.56,25.86,7.4,NA,NA,NA,NA,NA,7%,113
+Trevor Fetter,M,Tenet Healthcare,THC,Health Care Equipment & Services,No,6,7,49,5.19,1.08,2.29,1.82,0,21.87,1.3,NA,NA,NA,NA,NA,-36%,63
+Robert S Sands,M,Constellation Brands,STZ,Food Drink & Tobacco,No,2,23,51,5.14,0.98,1.44,0.21,2.52,NA,225.1,NA,NA,NA,NA,NA,-32%,89
+Nolan D Archibald,M,Black & Decker,BDK,Household & Personal Products,No,23,24,65,5.11,1.5,1.88,1.73,0,63.99,14.3,12.63,1%,97,99,153,3%,95
+Michael W Laphen,M,Computer Sciences,CSC,Software & Services,No,2,32,58,5.08,0.96,1.97,1.87,0.28,NA,3.6,NA,NA,NA,NA,NA,-18%,108
+William E Mitchell,M,Arrow Electronics,ARW,Technology Hardware & Equipment,No,6,6,65,5.08,1.1,0.98,3,0,21.29,9.8,3.83,5%,97,104,99,8%,106
+Robert P Kelly,M,Bank of New York,BK,Banking,No,2,3,54,5.08,0.99,0,4.09,0,NA,13,NA,NA,NA,NA,NA,-17%,109
+David B Dillon,M,Kroger,KR,Food Markets,No,6,33,58,5.06,1.17,2.32,0.88,0.68,24.27,21.4,NA,NA,NA,NA,NA,4%,104
+David W Nelms,M,Discover Financial Services,DFS,Diversified Financials,No,5,11,48,5.04,1,1.43,2.61,0,44.87,7.1,NA,NA,NA,NA,NA,-49%,68
+Thomas J May,M,NStar,NST,Utilities,No,15,33,62,5.03,0.98,1.7,2.35,0,29.46,18.4,5.74,12%,103,110,79,11%,104
+Stephen J Hemsley,M,UnitedHealth Group,UNH,Health Care Equipment & Services,No,2,12,56,5.03,1.3,2.54,1.19,0,NA,56,NA,NA,NA,NA,NA,-26%,88
+Jeffrey B Kindler,M,Pfizer,PFE,Drugs & Biotechnology,No,3,7,54,5.01,1.58,3,0.44,0,17.76,22.3,NA,NA,NA,NA,NA,-17%,93
+David M McClanahan,M,CenterPoint Energy,CNP,Utilities,No,7,37,59,5.01,1.05,1.58,2.38,0,18.77,5.1,3.55,10%,101,108,71,7%,105
+William D Johnson,M,Progress Energy,PGN,Utilities,No,2,17,55,4.99,0.95,0.93,3.11,0,NA,4.2,NA,NA,NA,NA,NA,-12%,126
+Gregory B Maffei,M,Liberty Entertainment,LMDIA,Media,No,3,4,48,4.95,1,2.73,1.22,0,NA,12.4,NA,NA,NA,NA,NA,-12%,125
+Michael I Roth,M,Interpublic Group,IPG,Media,No,4,5,63,4.9,1.13,2.4,1.37,0,10.87,6,NA,NA,NA,NA,NA,-20%,84
+David Simon,M,Simon Property Group,SPG,Diversified Financials,No,14,19,47,4.88,1,0.81,1.36,1.71,15.96,197.2,3.84,7%,109,105,46,10%,103
+Douglas L Foshee,M,El Paso,EP,Oil & Gas Operations,No,6,6,49,4.88,1.04,0.59,3.25,0,19.47,6.3,NA,NA,NA,NA,NA,0%,102
+Anthony F Earley Jr,M,DTE Energy,DTE,Utilities,No,11,15,59,4.68,1.19,1.5,1.74,0.25,23.08,6.8,4.26,0%,92,98,133,2%,102
+W Douglas Parker,M,US Airways Group,LCC,Transportation,No,8,14,47,4.66,0.55,0,4.11,0,21.31,0.8,3.65,-10%,86,89,157,-22%,79
+Gregory B Maffei,M,Liberty Media,LINTA,Retailing,No,3,4,48,4.62,1,2.73,0.5,0.39,12.09,1.7,NA,NA,NA,NA,NA,-44%,63
+Brenda C Barnes,F,Sara Lee,SLE,Food Drink & Tobacco,No,4,5,55,4.6,1,1.99,1.6,0,14.16,6.9,NA,NA,NA,NA,NA,-15%,89
+Bob Sasser,M,Dollar Tree,DLTR,Retailing,No,5,10,57,4.57,0.74,1.01,2.21,0.62,9.42,2.4,NA,NA,NA,NA,NA,7%,110
+Dennis R Glass,M,Lincoln National,LNC,Insurance,No,2,16,59,4.57,1,0.8,2.77,0,NA,2,NA,NA,NA,NA,NA,-65%,46
+Glenn M Renwick,M,Progressive,PGR,Insurance,No,8,23,53,4.52,0.78,0,3.17,0.58,33.86,45.7,6.67,0%,105,99,58,8%,111
+Patricia A Woertz,F,Archer Daniels,ADM,Food Drink & Tobacco,No,3,3,56,4.5,1.29,3.04,0.17,0,10.22,16.1,NA,NA,NA,NA,NA,-11%,100
+James E Rohr,M,PNC Financial Services,PNC,Banking,No,9,37,60,4.49,1,0,1.41,2.08,65.09,27.1,11.84,2%,109,100,64,2%,106
+James R Tobin,M,Boston Scientific,BSX,Health Care Equipment & Services,No,10,10,75,4.47,0.99,0.89,1.19,1.4,49.11,6.2,8.53,-14%,82,85,176,-7%,95
+Edward A Mueller,M,Qwest Communications,Q,Telecommunications Services,No,2,2,62,4.44,1.2,2.25,0.99,0,NA,5,NA,NA,NA,NA,NA,-33%,88
+Philip R Sherringham,M,People's United,PBCT,Banking,No,2,6,56,4.43,0.79,1.09,2.55,0,NA,10.8,NA,NA,NA,NA,NA,9%,153
+Clayton M Jones,M,Rockwell Collins,COL,Aerospace & Defense,No,8,13,59,4.41,1,1.21,2.19,0,31.01,3.6,5.8,13%,106,111,52,6%,109
+Duncan L Niederauer,M,NYSE Euronext,NYX,Diversified Financials,No,1,2,49,4.37,1,2,1.37,0,NA,0.7,NA,NA,NA,NA,NA,-62%,53
+John E McGlade,M,Air Prods & Chems,APD,Chemicals,No,2,33,55,4.32,1,2,0.62,0.7,NA,4.9,NA,NA,NA,NA,NA,-26%,105
+Richard C Kelley,M,Xcel Energy,XEL,Utilities,No,4,12,62,4.32,1.18,0,3.14,0,21.2,6.9,NA,NA,NA,NA,NA,2%,109
+Keith E Busse,M,Steel Dynamics,STLD,Materials,No,16,16,66,4.3,0.9,2.28,1.12,0,18.95,21.1,3.47,25%,108,123,45,7%,104
+James R Young,M,Union Pacific,UNP,Transportation,No,3,31,57,4.29,1.14,3,0.14,0.01,23.29,15.9,NA,NA,NA,NA,NA,5%,116
+R Kerry Clark,M,Cardinal Health,CAH,Drugs & Biotechnology,No,3,3,56,4.29,1.44,0.69,2.16,0,12.06,7.4,NA,NA,NA,NA,NA,-21%,87
+Mary F Sammons,F,Rite Aid,RAD,Retailing,No,6,9,62,4.2,1,1.82,1.12,0.25,13.01,0.9,NA,NA,NA,NA,NA,-32%,67
+Glen F Post III,M,Century Tel,CTL,Telecommunications Services,No,17,33,56,4.17,1,0.86,2.31,0,36.67,16.8,6.79,2%,93,100,147,7%,100
+Harold W McGraw III,M,McGraw0Hill Cos,MHP,Media,No,11,29,60,4.16,1.35,0,2.81,0,71.88,137.7,12.5,-1%,109,98,73,4%,104
+Larry D Young,M,Dr Pepper Snapple,DPS,Food Drink & Tobacco,No,2,3,54,4.14,0.87,1.64,1.63,0,NA,0.3,NA,NA,NA,NA,NA,-29%,114
+David E I Pyott,M,Allergan,AGN,Drugs & Biotechnology,No,11,11,56,4.12,1.35,1.21,1.56,0,73.54,7.5,13.73,6%,101,104,80,17%,116
+Klaus Kleinfeld,M,Alcoa,AAPL,Materials,No,1,2,51,4.12,1.4,1.88,0.84,0,NA,1.4,NA,NA,NA,NA,NA,-79%,33
+Jeffrey A Joerres,M,Manpower,MAN,Business Services & Supplies,No,10,16,49,4.11,1,0.3,2.81,0,24.98,8.9,4.62,3%,100,101,75,5%,108
+LeRoy T Carlson Jr,M,Tele & Data Systems,TDS,Telecommunications Services,No,23,35,62,4.1,1.28,0.95,0.66,1.22,21.62,104.4,3.84,5%,96,103,123,9%,101
+Brian Duperreault,M,Marsh & McLennan,MMC,Insurance,No,1,1,61,4.09,1,3,0.09,0,NA,11.1,NA,NA,NA,NA,NA,-18%,115
+David B Speer,M,Illinois Tool Works,ITW,Capital Goods,No,4,31,58,4.07,1.1,1.59,0.1,1.29,13.95,2.3,NA,NA,NA,NA,NA,-5%,102
+Angela F Braly,F,WellPoint,WLP,Health Care Equipment & Services,No,2,4,47,4.07,1.14,0.07,2.86,0,NA,4.6,NA,NA,NA,NA,NA,-31%,91
+Daniel W Rabun,M,Ensco International,ESV,Oil & Gas Operations,No,2,3,54,4.05,0.85,1.17,1.38,0.65,9.09,5.1,NA,NA,NA,NA,NA,-20%,96
+Kendall J Powell,M,General Mills,GIS,Food Drink & Tobacco,No,2,30,55,4.04,0.84,1.67,0.71,0.81,NA,7.4,NA,NA,NA,NA,NA,-5%,133
+Richard K Davis,M,US Bancorp,USB,Banking,No,2,16,51,4.03,0.9,0,0.02,3.12,15.78,6.3,NA,NA,NA,NA,NA,-21%,95
+William B Timmerman,M,Scana,SCG,Utilities,No,12,31,62,4.02,1.09,0.65,2.27,0,17.84,2.3,3.44,5%,97,103,104,6%,103
+Jonathan I Schwartz,M,Sun Microsystems,JAVA,Technology Hardware & Equipment,No,3,13,43,4.02,1,1.04,1.98,0,19,3.2,NA,NA,NA,NA,NA,-30%,77
+Michael R Splinter,M,Applied Materials,AMAT,Semiconductors,No,6,6,58,4.01,0.93,0.65,2.43,0,20.35,7.5,NA,NA,NA,NA,NA,-3%,95
+William A Hawkins,M,Medtronic,MDT,Health Care Equipment & Services,No,2,7,55,3.97,1,0.63,2.34,0,NA,9.2,NA,NA,NA,NA,NA,-27%,98
+Gregory T Lucier,M,Life Technologies,LIFE,Drugs & Biotechnology,No,6,6,44,3.95,0.98,2.05,0.92,0,38.74,6.1,NA,NA,NA,NA,NA,9%,109
+Alan R Mulally,M,Ford Motor,F,Consumer Durables,No,3,3,63,3.94,2,0,1.94,0,35.44,3.9,NA,NA,NA,NA,NA,-23%,88
+Donald R Knauss,M,Clorox,CLX,Household & Personal Products,No,3,3,57,3.92,0.99,1.38,1.55,0,NA,4.1,NA,NA,NA,NA,NA,-3%,112
+Daniel C Ustian,M,Navistar Intl,NAV,Consumer Durables,No,6,36,58,3.9,1.17,0,2.73,0,11.87,4.9,2.14,6%,124,104,10,7%,104
+Keith O Rattie,M,Questar,STR,Utilities,No,7,8,54,3.9,0.88,0,3.02,0,17.31,7.8,3.11,15%,106,113,23,14%,115
+Richard J Dugas Jr,M,Pulte Homes,PHM,Construction,No,6,15,43,3.85,1,0.46,2.39,0,31.25,7,NA,NA,NA,NA,NA,-6%,93
+Gregory M Spierkel,M,Ingram Micro,IM,Technology Hardware & Equipment,No,4,12,52,3.84,0.8,0.84,0.58,1.62,14.47,0,NA,NA,NA,NA,NA,-4%,101
+Bryce Blair,M,Avalonbay Communities,AVB,Diversified Financials,No,8,16,50,3.81,0.82,0.99,1.96,0.05,35.46,12.2,6.22,11%,113,109,24,7%,111
+David J West,M,Hershey,HSY,Food Drink & Tobacco,No,1,8,46,3.78,1,1.13,1.65,0,NA,1.6,NA,NA,NA,NA,NA,-2%,144
+Adam S Metz,M,General Growth Prop,GGP,Diversified Financials,No,1,1,48,3.78,1.5,2,0.28,0,NA,0,NA,NA,NA,NA,NA,-80%,18
+Carl H Lindner III,M,American Finl Group,AFG,Insurance,No,4,18,55,3.77,1.1,1.94,0.73,0,21.99,207.6,NA,NA,NA,NA,NA,-1%,104
+Kevin Burke,M,Consolidated Edison,ED,Utilities,No,4,36,58,3.75,1.1,1.07,1.09,0.49,10.39,3,NA,NA,NA,NA,NA,0%,107
+Francisco D'Souza,M,Cognizant Technology,CTSH,Software & Services,No,2,15,40,3.72,0.43,0.35,0.01,2.94,NA,5,NA,NA,NA,NA,NA,-19%,98
+Gregory C Case,M,Aon,AOC,Insurance,No,4,4,46,3.72,1.5,1.42,0.8,0,16.53,4.8,NA,NA,NA,NA,NA,16%,123
+James S Tisch,M,Loews,L,Insurance,No,10,32,56,3.7,1.1,2.5,0.1,0,15.67,350.8,2.85,12%,117,110,12,5%,106
+Robert G Wilmers,M,M&T Bank,MTB,Banking,No,2,16,75,3.66,0.65,0,0.06,2.95,24.1,217.1,NA,NA,NA,NA,NA,-27%,88
+Clarence Otis Jr,M,Darden Restaurants,DRI,"Hotels, Restaurants & Leisure",No,4,14,53,3.66,0.89,0.97,0.87,0.92,13.68,7.6,NA,NA,NA,NA,NA,9%,114
+Henri A Termeer,M,Genzyme,GENZ,Drugs & Biotechnology,No,23,26,63,3.66,1.58,1.96,0.12,0,79.12,35.7,16.36,9%,103,107,111,13%,105
+Gregory Q Brown,M,Motorola,MOT,Technology Hardware & Equipment,No,1,6,49,3.64,1.2,0,2.44,0,NA,3.4,NA,NA,NA,NA,NA,-59%,59
+Jeffery W Yabuki,M,Fiserv,FISV,Software & Services,No,3,3,49,3.64,0.84,1.09,1.7,0,8.99,3.5,NA,NA,NA,NA,NA,-6%,102
+Donald E Washkewicz,M,Parker-Hannifin,PH,Capital Goods,No,8,36,58,3.62,1.16,2.23,0.23,0,44.94,21.2,7.84,8%,96,106,115,5%,108
+Shantanu Narayen,M,Adobe Systems,ADBE,Software & Services,No,1,11,45,3.6,0.88,1.26,1.47,0,NA,4.1,NA,NA,NA,NA,NA,-32%,98
+C Larry Pope,M,Smithfield Foods,SFD,Food Drink & Tobacco,No,3,29,54,3.56,1.1,2.43,0.04,0,9.36,3.7,NA,NA,NA,NA,NA,-31%,79
+Sol J Barer,M,Celgene,CELG,Drugs & Biotechnology,No,3,23,62,3.56,0.83,1,1.44,0.29,NA,24.7,NA,NA,NA,NA,NA,0%,111
+Eric C Wiseman,M,VF,VFC,Household & Personal Products,No,1,14,53,3.54,0.95,0.76,1.83,0,NA,7.1,NA,NA,NA,NA,NA,0%,148
+Stephen P MacMillan,M,Stryker,SYK,Health Care Equipment & Services,No,4,6,45,3.51,1.2,0.62,1.59,0.11,15.03,4.1,NA,NA,NA,NA,NA,-6%,98
+Terry J Lundgren,M,Macy's,M,Retailing,No,6,15,57,3.47,1.5,0.9,1.07,0,39.27,2.4,7.29,-1%,92,97,155,0%,98
+John P Daane,M,Altera,ALTR,Semiconductors,No,8,8,45,3.47,0.7,1.25,0.53,0.99,9.52,7.5,1.89,4%,116,103,30,-3%,99
+James T Ryan,M,WW Grainger,GWW,Capital Goods,No,1,29,50,3.43,0.79,0.63,2.01,0,NA,10.4,NA,NA,NA,NA,NA,-16%,143
+William P Utt,M,KBR,KBR,Construction,No,3,3,52,3.42,0.9,1.1,1.42,0,7.87,3.3,NA,NA,NA,NA,NA,-11%,105
+James E Rogers,M,Duke Energy,DUK,Utilities,No,3,21,61,3.4,0,0,3.4,0,22.12,18.9,NA,NA,NA,NA,NA,-1%,110
+John T Chambers,M,Cisco Systems,CSCO,Technology Hardware & Equipment,No,14,18,59,3.39,0.38,3,0.01,0,232.66,66.3,38.78,5%,97,103,139,17%,110
+Antonio M Perez,M,Eastman Kodak,EK,Household & Personal Products,No,4,6,63,3.38,1.1,0,2.28,0,18.79,0.6,NA,NA,NA,NA,NA,-36%,68
+Thomas A James,M,Raymond James Finl,RJF,Diversified Financials,No,39,43,67,3.34,0.32,2.3,0.72,0,16.2,270.4,3.08,9%,110,107,21,18%,108
+William J DeLaney,M,Sysco,SYY,Food Markets,No,0.5,22,53,3.31,0.56,1.94,0.81,0,NA,1.5,NA,NA,NA,NA,NA,NA,NA
+J Brian Ferguson,M,Eastman Chemical,EMN,Chemicals,No,7,32,54,3.31,1.13,0.93,1.24,0.01,34.21,8.1,5.92,5%,90,103,148,0%,102
+Murray R McClean,M,Commercial Metals,CMC,Materials,No,3,4,60,3.3,0.6,1.91,0.79,0,11.53,2.2,NA,NA,NA,NA,NA,-15%,96
+Robert M Dutkowsky,M,Tech Data,TECD,Technology Hardware & Equipment,No,3,3,54,3.29,0.92,1.59,0.78,0,NA,1,NA,NA,NA,NA,NA,-16%,97
+Scott A McGregor,M,Broadcom,BRCM,Semiconductors,No,4,4,53,3.28,0.68,0.62,1.99,0,26.73,6.8,NA,NA,NA,NA,NA,2%,108
+James T Prokopanko,M,Mosaic,MOS,Chemicals,No,2,3,55,3.26,0.81,1.91,0.54,0,NA,0.3,NA,NA,NA,NA,NA,38%,168
+Murray D Martin,M,Pitney Bowes,PBI,Business Services & Supplies,No,2,8,61,3.25,0.94,1.38,0.93,0,11.86,2.4,NA,NA,NA,NA,NA,-25%,96
+Jai Nagarkatti,M,Sigma-Aldrich,SIAL,Chemicals,No,3,33,62,3.2,0.75,0.36,0.47,1.62,6.52,3.3,NA,NA,NA,NA,NA,9%,119
+Richard T O'Brien,M,Newmont Mining,NEM,Materials,No,2,4,54,3.2,1,1.89,0.31,0,NA,8,NA,NA,NA,NA,NA,4%,139
+Ward M Klein,M,Energizer Holdings,ENR,Household & Personal Products,No,4,30,54,3.15,0.82,1.56,0.77,0,21.97,4.3,NA,NA,NA,NA,NA,0%,105
+Sheldon G Adelson,M,Las Vegas Sands,LVS,"Hotels, Restaurants & Leisure",No,11,11,75,3.14,1,1.9,0.24,0,46.19,1523.4,NA,NA,NA,NA,NA,-42%,61
+Robert B Pollock,M,Assurant,AIZ,Insurance,No,3,28,54,3.14,0.95,1.64,0.55,0,18.35,3.9,NA,NA,NA,NA,NA,-16%,93
+Frank J Bramanti,M,HCC Insurance,HCC,Insurance,No,2,2,52,3.14,1.95,1.01,0.03,0.15,8.17,8.9,NA,NA,NA,NA,NA,-4%,114
+Francis S Blake,M,Home Depot,HD,Retailing,No,2,7,59,3.12,1.01,0,2.1,0,7.78,10.9,NA,NA,NA,NA,NA,-14%,103
+Lothar Maier,M,Linear Technology,LLTC,Semiconductors,No,4,10,53,3.11,0.41,1.82,0.87,0,9.79,5,NA,NA,NA,NA,NA,-9%,96
+Stanley M Bergman,M,Henry Schein,HSIC,Health Care Equipment & Services,No,20,29,59,3.08,1.03,1.8,0.25,0,11.97,46,2.3,11%,105,109,55,9%,105
+David W Kemper,M,Commerce Bancshs,CBSH,Banking,No,23,31,58,3.07,0.84,0.38,0.33,1.52,17.55,180.5,3.14,9%,116,107,22,12%,104
+Carol Bartz,F,Yahoo,YHOO,Software & Services,No,0.5,0.5,60,3,1,2,0,0,NA,14.3,NA,NA,NA,NA,NA,NA,NA
+Ralph Izzo,M,Pub Svc Enterprise,PEG,Utilities,No,2,17,51,2.97,0.94,1,1.03,0,9.51,4.3,NA,NA,NA,NA,NA,-11%,110
+James J O'Brien,M,Ashland,ASH,Chemicals,No,6,33,54,2.97,1.11,0.45,1.41,0,39.16,2,6.75,-4%,83,95,168,0%,98
+David J Neithercut,M,Equity Residential,EQR,Diversified Financials,No,3,14,53,2.96,0.63,0.5,1.83,0,NA,8.3,NA,NA,NA,NA,NA,-11%,97
+Vikram S Pandit,M,Citigroup,C,Banking,No,1,4,52,2.94,0.96,0,1.98,0,NA,5.2,NA,NA,NA,NA,NA,-82%,25
+William D Harvey,M,Alliant Energy,LNT,Utilities,No,4,23,60,2.92,0.85,0,2.07,0,13.48,6.4,NA,NA,NA,NA,NA,0%,107
+Thomas J Wilson,M,Allstate,ALL,Insurance,No,2,14,51,2.92,1.04,0.15,1.52,0.2,16.33,3.1,NA,NA,NA,NA,NA,-34%,79
+Frederick H Waddell,M,Northern Trust,NTRS,Banking,No,1,34,56,2.9,0.86,0,0.58,1.47,NA,20.1,NA,NA,NA,NA,NA,-11%,130
+Mark M Jacobs,M,Reliant Energy,RRI,Utilities,No,2,7,46,2.9,0.77,0.82,1.31,0,NA,2.7,NA,NA,NA,NA,NA,-60%,52
+Frits D van Paasschen,M,Starwood Hotels,HOT,"Hotels, Restaurants & Leisure",No,2,2,47,2.89,1,1.37,0.52,0,NA,0,NA,NA,NA,NA,NA,-56%,61
+Surya N Mohapatra,M,Quest Diagnostics,DGX,Health Care Equipment & Services,No,5,10,59,2.88,1.09,1.67,0.12,0,21.85,8.8,NA,NA,NA,NA,NA,3%,107
+Robert E Rossiter,M,Lear,LEA,Consumer Durables,No,9,38,63,2.85,1.24,0,1.62,0,22.7,0.4,5.52,-45%,64,54,172,-29%,73
+George L Chapman,M,Health Care REIT,HCN,Diversified Financials,No,13,17,61,2.83,0.62,0.87,1.19,0.15,18.07,10.9,3.59,12%,113,110,17,12%,108
+Darren R Jackson,M,Advance Auto Parts,AAP,Retailing,No,1,1,45,2.81,0.8,1.96,0.05,0,NA,8.8,NA,NA,NA,NA,NA,11%,160
+John W Gibson,M,Oneok,OKE,Utilities,No,2,9,57,2.8,0.83,0.85,1.12,0,NA,2.9,NA,NA,NA,NA,NA,-19%,97
+A Greig Woodring,M,Reinsurance Gp America,RGA,Insurance,No,16,30,57,2.78,0.84,0.31,1.61,0.02,13.57,4.3,2.8,6%,110,104,42,7%,100
+Ellen J Kullman,F,EI du Pont de Nemours,DD,Chemicals,No,0.5,21,53,2.74,0.7,0.72,1.32,0,NA,1,NA,NA,NA,NA,NA,NA,NA
+Robert A Livingston,M,Dover,DOV,Conglomerates,No,0.5,26,56,2.68,0.9,1,0.78,0,NA,1.8,NA,NA,NA,NA,NA,NA,NA
+Kevin R Johnson,M,Juniper Networks,JNPR,Technology Hardware & Equipment,No,1,1,48,2.68,0.8,1.84,0.03,0,NA,1.6,NA,NA,NA,NA,NA,-42%,107
+Steven A Burd,M,Safeway,SWY,Food Markets,No,16,17,59,2.63,1.47,0.4,0.77,0,97.29,24.1,18.56,1%,99,99,139,11%,104
+Thomas C Gallagher,M,Genuine Parts,GPC,Consumer Durables,No,5,49,61,2.62,0.88,0.87,0.6,0.28,15.27,11.5,NA,NA,NA,NA,NA,0%,102
+David H Hannah,M,Reliance Steel,RSG,Materials,No,10,28,57,2.6,0.7,1.88,0.02,0,18.17,8.5,3.33,30%,112,127,5,14%,117
+Allen F Wise,M,Coventry Health Care,CVH,Health Care Equipment & Services,No,0.5,0.5,66,2.6,0.6,2,0,0,NA,1.5,NA,NA,NA,NA,NA,NA,NA
+Fredric J Tomczyk,M,TD Ameritrade Holding,AMTD,Diversified Financials,No,1,2,53,2.56,0.5,1.83,0.23,0,NA,10.1,NA,NA,NA,NA,NA,-17%,141
+Douglas M Baker Jr,M,Ecolab,ECL,Chemicals,No,5,20,50,2.55,1,1.4,0.16,0,20.09,5,NA,NA,NA,NA,NA,5%,109
+Brad D Smith,M,Intuit,INTU,Software & Services,No,1,6,45,2.55,0.76,1.7,0.09,0,NA,0.2,NA,NA,NA,NA,NA,-12%,129
+Michael D Fraizer,M,Genworth Financial,GNW,Insurance,No,12,29,50,2.54,1.12,0,1.42,0,60.11,2.2,NA,NA,NA,NA,NA,-32%,70
+Dean A Scarborough,M,Avery Dennison,AVY,Business Services & Supplies,No,4,25,53,2.5,0.95,0.22,1.24,0.09,14.42,2.3,NA,NA,NA,NA,NA,-13%,91
+Jonathan J Judge,M,Paychex,PAYX,Business Services & Supplies,No,5,5,55,2.45,0.91,1.06,0.49,0,7.18,3,NA,NA,NA,NA,NA,0%,103
+Paul H Stebbins,M,World Fuel Services,INT,Business Services & Supplies,No,7,24,52,2.44,0.58,0,1.86,0,33.5,23,NA,NA,NA,NA,NA,17%,117
+Gregg W Steinhafel,M,Target,TGT,Retailing,No,1,30,53,2.43,1.35,0.45,0.63,0,NA,31.2,NA,NA,NA,NA,NA,-26%,120
+Steve Odland,M,Office Depot,ODP,Retailing,No,4,4,50,2.41,1,0,1.41,0,26.99,1.7,NA,NA,NA,NA,NA,-44%,59
+David W Joos,M,CMS Energy,CMS,Utilities,No,5,33,56,2.39,1.05,0.97,0.38,0,15.67,9.4,NA,NA,NA,NA,NA,7%,111
+Steven H Temares,M,Bed Bath & Beyond,BBBY,Retailing,No,6,17,50,2.39,1.33,0,1.06,0,7.22,8.5,NA,NA,NA,NA,NA,-2%,96
+Michael B McCallister,M,Humana,HUM,Health Care Equipment & Services,No,9,35,56,2.39,1.02,0,0.67,0.7,56.91,14.9,10.51,21%,114,119,19,14%,118
+David C Dvorak,M,Zimmer Holdings,ZMH,Health Care Equipment & Services,No,2,7,45,2.37,0.74,0.69,0.94,0,NA,1,NA,NA,NA,NA,NA,-34%,84
+Ahmad R Chatila,M,MEMC Electronic Mats,WFT,Semiconductors,No,0.5,0.5,42,2.35,0.75,1,0.6,0,NA,0,NA,NA,NA,NA,NA,NA,NA
+Mark S McAndrew,M,Torchmark,TMK,Insurance,No,4,29,58,2.35,0.95,1.2,0.2,0,16.41,3.7,NA,NA,NA,NA,NA,-11%,95
+Steven R Appleton,M,Micron Technology,MU,Semiconductors,No,15,26,49,2.31,0.95,0,1.36,0,9.95,10.9,1.67,-10%,99,88,106,-4%,89
+Frederick A Henderson,M,General Motors,GM,Consumer Durables,No,0.5,25,50,2.3,1.72,0,0.58,0,NA,0.6,NA,NA,NA,NA,NA,NA,NA
+Ralph W Babb Jr,M,Comerica,CMA,Banking,No,7,14,60,2.29,0.99,0,1.31,0,19.64,7.8,3.6,-6%,100,92,113,-9%,92
+Kelly S King,M,BB&T,BBT,Banking,No,0.5,37,60,2.29,0.67,0,1,0.62,NA,4.8,NA,NA,NA,NA,NA,NA,NA
+Albert P L Stroucken,M,Owens-Illinois,OI,Materials,No,2,2,61,2.29,1.01,0.56,0.72,0,11.49,3.7,NA,NA,NA,NA,NA,-4%,114
+Mark A Stefanski,M,TFS Financial,TFSL,Banking,No,21,27,54,2.23,0.9,0.9,0.43,0,6.59,5.6,NA,NA,NA,NA,NA,3%,133
+Lynn Laverty Elsenhans,F,Sunoco,SUN,Oil & Gas Operations,No,1,1,53,2.21,1.24,0.79,0.17,0,NA,0.5,NA,NA,NA,NA,NA,-47%,93
+Christina A Gold,F,Western Union,WU,Diversified Financials,No,3,7,60,2.19,0.97,1.11,0.12,0,10.76,3.8,NA,NA,NA,NA,NA,-8%,105
+Jack A Fusco,M,Calpine,CPN,Utilities,No,1,1,46,2.16,1,0.9,0.27,0,NA,4.3,NA,NA,NA,NA,NA,-59%,72
+Henry L Meyer III,M,KeyCorp,KEY,Banking,No,8,37,59,2.16,1.02,0,1.14,0,23.21,6,4.52,-12%,94,86,144,-9%,93
+Theodore F Craver Jr,M,Edison International,EIX,Utilities,No,1,13,57,2.16,0.89,1.05,0.16,0.06,NA,3.8,NA,NA,NA,NA,NA,-50%,83
+Joseph R Ficalora,M,New York Community,NYB,Banking,No,16,44,62,2.15,0.98,1.08,0.1,0,9.51,42.7,3.23,-1%,105,97,37,20%,113
+Keith E Wandell,M,Harley-Davidson,HOG,Consumer Durables,No,0.5,0.5,59,2.15,0.98,1.17,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA
+Keith D Nosbusch,M,Rockwell Automation,ROK,Capital Goods,No,5,35,58,2.13,1.03,0.56,0.06,0.47,21.34,4,NA,NA,NA,NA,NA,1%,104
+Raymond W McDaniel Jr,M,Moody's,MCO,Business Services & Supplies,No,4,22,51,2.12,0.94,0.31,0.88,0,23.21,3.2,NA,NA,NA,NA,NA,-11%,92
+Neil A Berkett,M,Virgin Media,VMED,Media,No,2,4,53,2.11,0.85,0,1.26,0,NA,0.6,NA,NA,NA,NA,NA,-52%,63
+Christopher B Begley,M,Hospira,HSP,Health Care Equipment & Services,No,9,23,57,2.1,1.03,0.98,0.09,0,10.06,1.7,NA,NA,NA,NA,NA,2%,106
+Mark P Frissora,M,Hertz Global Holdings,HTZ,Business Services & Supplies,No,3,3,53,2.05,1.09,0.6,0.35,0,25.12,7.2,NA,NA,NA,NA,NA,-35%,77
+Terry Considine,M,Apartment Investment,AIV,Diversified Financials,No,15,34,62,2.05,0,1.7,0.35,0,6.45,4.5,1.08,-14%,88,85,142,2%,96
+Eric J Foss,M,Pepsi Bottling Group,PBG,Food Drink & Tobacco,No,3,27,50,2.02,0.98,0.84,0.19,0,11.86,22.8,NA,NA,NA,NA,NA,-9%,101
+John Yearwood,M,Smith International,SII,Oil & Gas Operations,No,0.5,3,49,2,1,1,0,0,NA,0.3,NA,NA,NA,NA,NA,NA,NA
+Howard R Levine,M,Family Dollar Stores,FDO,Retailing,No,11,13,50,2,0.88,0.53,0.58,0,9.88,340.7,2.14,3%,96,101,84,8%,109
+Russell P Smyth,M,H&R Block,HRB,Business Services & Supplies,No,1,1,52,2,0.95,1.05,0,0,NA,0,NA,NA,NA,NA,NA,-45%,90
+Michael S Dell,M,Dell,DELL,Technology Hardware & Equipment,Yes,2,25,44,1.99,0.95,0,1.04,0,NA,2750.1,NA,NA,NA,NA,NA,-31%,85
+Jack B Moore,M,Cameron International,CAM,Oil & Gas Operations,No,1,10,55,1.98,0.75,0.9,0.33,0,NA,4.3,NA,NA,NA,NA,NA,-42%,87
+Howard D Schultz,M,Starbucks,SBUX,"Hotels, Restaurants & Leisure",Yes,1,27,55,1.95,1.19,0,0.76,0,NA,219.8,NA,NA,NA,NA,NA,-34%,97
+W Edward Walter,M,Host Hotels & Resorts,HST,Diversified Financials,No,2,13,53,1.95,0.75,0.47,0.73,0,NA,6.1,NA,NA,NA,NA,NA,-59%,59
+Howard Solomon,M,Forest Labs,FRX,Drugs & Biotechnology,No,32,32,81,1.91,1.16,0.64,0.12,0,162.23,21.1,33.05,-14%,82,85,167,23%,112
+Larry D Zimpleman,M,Principal Financial,PFG,Diversified Financials,No,1,38,57,1.83,0.74,0,1.1,0,NA,0.2,NA,NA,NA,NA,NA,-75%,39
+Alan L Stinson,M,Fidelity National Finl,FNF,Insurance,No,2,11,63,1.83,0.54,0,1.29,0,NA,12.5,NA,NA,NA,NA,NA,-4%,127
+Scott D Farmer,M,Cintas,CTAS,Business Services & Supplies,No,6,28,49,1.79,0.7,0.24,0.06,0.8,6.88,35,NA,NA,NA,NA,NA,-4%,96
+W Benjamin Moreland,M,Crown Castle Intl,CCI,Telecommunications Services,No,1,10,45,1.79,0.42,0.56,0.81,0,NA,18.6,NA,NA,NA,NA,NA,-40%,96
+Steven P Dussek,M,NII Holdings,NIHD,Telecommunications Services,No,1,1,52,1.76,0.73,0.67,0.36,0,NA,1.4,NA,NA,NA,NA,NA,-59%,57
+John J Donahoe,M,Ebay,EBAY,Retailing,No,1,4,47,1.75,0.88,0.5,0.37,0,NA,1.3,NA,NA,NA,NA,NA,-48%,75
+David N Weidman,M,Celanese,CE,Chemicals,No,4,9,53,1.72,0.9,0.76,0.06,0,32.28,6.8,NA,NA,NA,NA,NA,2%,108
+Willard D Oberton,M,Fastenal,FAST,Retailing,No,6,29,50,1.71,0.49,1.22,0,0,6.11,12,1.09,17%,110,115,11,13%,112
+Timothy Wadhams,M,Masco,MAS,Construction,No,2,33,60,1.69,0.93,0,0.76,0,NA,5.4,NA,NA,NA,NA,NA,-47%,69
+Terry D Hildstead,M,MDU Resources,MDU,Utilities,No,3,35,59,1.69,0.7,0,0.99,0,6.93,2.9,NA,NA,NA,NA,NA,-11%,101
+Albert L Lord,M,SLM,SLM,Diversified Financials,No,1,28,63,1.67,1.48,0,0.2,0,NA,3.2,NA,NA,NA,NA,NA,-64%,51
+Gregory D Wasson,M,Walgreen,WAG,Retailing,No,0.5,29,50,1.64,0.75,0.65,0.24,0,NA,1.2,NA,NA,NA,NA,NA,NA,NA
+John D Johns,M,Protective Life,PLD,Insurance,No,7,16,56,1.53,0.85,0,0.69,0,23.62,2.6,4.25,-19%,85,80,163,-15%,86
+D Scott Davis,M,United Parcel Service,UPS,Transportation,No,1,23,57,1.52,0.96,0.18,0.38,0,NA,5.2,NA,NA,NA,NA,NA,-17%,122
+Bruce A Carbonari,M,Fortune Brands,FO,Consumer Durables,No,1,19,53,1.52,1.1,0,0.42,0,NA,2.1,NA,NA,NA,NA,NA,-40%,88
+John F Brock,M,Coca-Cola Enterprises,CCE,Food Drink & Tobacco,No,3,3,60,1.51,1.14,0.15,0.22,0,6.6,1,NA,NA,NA,NA,NA,-8%,102
+Stephen D Steinour,M,Huntington Bancshs,HBAN,Banking,No,0.5,0.5,50,1.5,1,0.5,0,0,NA,0,NA,NA,NA,NA,NA,NA,NA
+Enrique T Salem,M,Symantec,SYMC,Software & Services,No,0.5,5,43,1.47,0.51,0.47,0.49,0,NA,2.6,NA,NA,NA,NA,NA,NA,NA
+Blake W Nordstrom,M,Nordstrom,JWN,Retailing,No,9,35,48,1.47,0.7,0,0.07,0.71,19.87,46.7,3.78,20%,112,118,4,13%,118
+Ronald L Nelson,M,Avis Budget Group,CAR,Business Services & Supplies,No,3,6,56,1.46,1,0,0.46,0,15.59,0.1,NA,NA,NA,NA,NA,-68%,36
+Joseph M Rigby,M,Pepco Holdings,POM,Utilities,No,0.5,35,52,1.42,0.66,0.36,0.41,0,NA,1.3,NA,NA,NA,NA,NA,NA,NA
+Moshe Gavrielov,M,Xilinx,XLNX,Semiconductors,No,1,1,54,1.42,0.7,0.7,0.02,0,NA,0,NA,NA,NA,NA,NA,2%,147
+William J Post,M,Pinnacle West,PNW,Utilities,No,10,27,58,1.41,0.95,0,0.46,0,11.71,2.5,2.19,2%,94,100,114,1%,102
+Robert E Lowder,M,Colonial BancGroup,CNB,Banking,Yes,28,28,67,1.4,1.16,0,0.24,0,12.86,7.1,2.47,-32%,72,67,156,1%,92
+John G Stumpf,M,Wells Fargo,WFC,Banking,No,2,27,55,1.38,0.88,0,0.24,0.26,NA,14.9,NA,NA,NA,NA,NA,-24%,100
+John S Riccitiello,M,Electronic Arts,ERTS,Software & Services,No,2,2,49,1.38,0.75,0.63,0,0,NA,1.8,NA,NA,NA,NA,NA,-37%,78
+Steven A Ballmer,M,Microsoft,MSFT,Software & Services,No,9,29,53,1.35,0.64,0.7,0.01,0,5.53,8030.3,1.07,-1%,91,98,133,-8%,95
+Michael J Jackson,M,AutoNation,AN,Retailing,No,10,10,60,1.35,1.15,0,0.2,0,35.86,5,6.46,3%,97,102,108,4%,107
+Jay M Gellert,M,Health Net,HNT,Health Care Equipment & Services,No,11,13,55,1.34,1.2,0,0.13,0,37.69,11.4,8.12,-9%,86,89,169,-1%,98
+Thomas Peterffy,M,Interactive Brokers Gp,IBKR,Diversified Financials,Yes,32,32,64,1.3,1.3,0,0,0,4.9,0,NA,NA,NA,NA,NA,-29%,91
+Rodney O'Neal,M,Delphi,DPHIQ,Consumer Durables,No,2,38,55,1.3,1.2,0,0.1,0,7.39,0,NA,NA,NA,NA,NA,-82%,21
+Richard E Anthony,M,Synovus Financial,SNV,Banking,No,4,17,63,1.3,0.93,0,0.29,0.08,9.65,3.5,NA,NA,NA,NA,NA,-24%,81
+Jeffrey P Bezos,M,Amazon.com,AMZN,Retailing,Yes,15,15,45,1.28,0.08,0,1.2,0,6.01,7751,1.02,21%,113,119,2,36%,134
+Kevin T Kabat,M,Fifth Third Bancorp,FITB,Banking,No,2,8,52,1.27,0.9,0,0.37,0,6.68,0.5,NA,NA,NA,NA,NA,-68%,40
+C Dowd Ritter,M,Regions Financial,RF,Banking,No,3,40,61,1.27,1,0,0.27,0,23.82,3.5,NA,NA,NA,NA,NA,-56%,51
+John J Mack,M,Morgan Stanley,MS,Diversified Financials,No,4,4,64,1.24,0.8,0,0.44,0,57.15,74.9,NA,NA,NA,NA,NA,-11%,94
+Gregory L Ebel,M,Spectra Energy,SE,Oil & Gas Operations,No,0.5,7,44,1.22,0.5,0.49,0.22,0,NA,0.8,NA,NA,NA,NA,NA,NA,NA
+Michael J Ahearn,M,First Solar,FSLR,Technology Hardware & Equipment,No,9,9,52,1.22,0.45,0.77,0,0,2.28,438.5,NA,NA,NA,NA,NA,107%,248
+Kevin Mansell,M,Kohl's,KSS,Retailing,No,1,27,56,1.21,1.07,0,0.15,0,NA,22.1,NA,NA,NA,NA,NA,-8%,165
+Gary C Kelly,M,Southwest Airlines,LUV,Transportation,No,5,23,54,1.21,0.42,0.46,0.1,0.23,4.29,1.1,NA,NA,NA,NA,NA,-13%,89
+James M Wells III,M,SunTrust Banks,STI,Banking,No,2,33,62,1.2,1.08,0,0.12,0,7.24,3.5,NA,NA,NA,NA,NA,-52%,58
+Timothy L Main,M,Jabil Circuit,JBL,Technology Hardware & Equipment,No,9,22,51,1.18,1,0.16,0.02,0,22.25,7.8,3.87,-14%,79,84,166,-22%,81
+Paul Maritz,M,VMware,VMW,Software & Services,No,1,6,54,1.17,0.75,0.41,0.02,0,NA,0,NA,NA,NA,NA,NA,-32%,110
+W Bruce Johnson,M,Sears Holdings,SHLD,Retailing,No,1,6,56,1.09,0.9,0,0.2,0,NA,2.1,NA,NA,NA,NA,NA,-45%,79
+Kenneth W Stecher,M,Cincinnati Financial,CINF,Insurance,No,1,10,62,1.09,0.66,0.43,0.01,0,NA,2.3,NA,NA,NA,NA,NA,9%,177
+Richard L Carrion,M,Popular,BPOP,Banking,No,16,33,56,1.08,0.74,0.03,0.3,0,6.75,10.6,1.23,-21%,84,77,146,2%,96
+Jeffrey M Peek,M,CIT Group,CIT,Diversified Financials,No,5,6,61,1.05,0.8,0,0.25,0,26.55,1.7,NA,NA,NA,NA,NA,-37%,64
+Mark F Furlong,M,Marshall & Ilsley,MI,Banking,No,2,8,51,1.05,0.88,0,0.17,0,3.79,1.5,NA,NA,NA,NA,NA,-54%,58
+Harris H Simmons,M,Zions Bancorp,ZION,Banking,No,18,28,54,1.02,0.88,0,0.15,0,10.3,33.4,2,-17%,89,82,133,9%,101
+Donald H Layton,M,E-Trade Financial,ETFC,Diversified Financials,No,1,1,58,1,1,0,0,0,NA,2.5,NA,NA,NA,NA,NA,-65%,49
+Thomas R Voss,M,Ameren,AEE,Utilities,No,0.5,40,61,0.99,0.48,0.24,0.27,0,NA,0.9,NA,NA,NA,NA,NA,NA,NA
+Charles W Ergen,M,DISH Network,DISH,Media,Yes,29,29,56,0.97,0.6,0,0.37,0,5.63,3268.6,1.44,-8%,100,90,53,16%,110
+C James Prieur,M,Conseco,CNO,Insurance,No,3,3,58,0.91,0.9,0,0.01,0,3.14,0.7,NA,NA,NA,NA,NA,-63%,41
+Robert C Skaggs Jr,M,Ni Source,NI,Utilities,No,4,28,54,0.85,0.79,0,0.06,0,3.44,0.5,NA,NA,NA,NA,NA,-16%,88
+Daniel S Fulton,M,Weyerhaeuser,WY,Materials,No,1,34,60,0.83,0.79,0,0.03,0,NA,1,NA,NA,NA,NA,NA,-48%,80
+Charles B Edelstein,M,Apollo Group,APOL,Business Services & Supplies,No,1,1,49,0.8,0.6,0.2,0,0,NA,0.1,NA,NA,NA,NA,NA,-2%,176
+Parker S Kennedy,M,First American,FAF,Insurance,No,16,32,61,0.77,0.75,0,0.02,0,12.35,16.5,2.32,4%,109,102,35,12%,105
+D Bryan Jordan,M,First Horizon National,FHN,Banking,No,1,2,47,0.73,0.7,0,0.03,0,NA,1.9,NA,NA,NA,NA,NA,33%,249
+R Adam Norwitt,M,Amphenol,APH,Technology Hardware & Equipment,No,0.5,11,40,0.71,0.42,0.27,0.03,0,NA,0,NA,NA,NA,NA,NA,NA,NA
+Richard H Anderson,M,Delta Air Lines,DAL,Transportation,No,2,2,54,0.6,0.6,0,0,0,NA,11.5,NA,NA,NA,NA,NA,-40%,81
+Michael S Dunlap,M,Nelnet,NNI,Diversified Financials,Yes,13,13,46,0.51,0.5,0,0.01,0,5.05,180.2,NA,NA,NA,NA,NA,-13%,88
+Eric E Schmidt,M,Google,GOOG,Software & Services,No,8,8,54,0.51,0,0,0.51,0,1.66,3491.1,NA,NA,NA,NA,NA,32%,136
+Charles A Schrock,M,Integrys Energy Group,TEG,Utilities,No,0.5,30,55,0.46,0.32,0.12,0.03,0,NA,0.5,NA,NA,NA,NA,NA,NA,NA
+Joseph W Brown,M,MBIA,MBI,Insurance,No,1,10,60,0.44,0.44,0,0,0,NA,20.8,NA,NA,NA,NA,NA,-52%,68
+Leland E Tollett,M,Tyson Foods,TSN,Food Drink & Tobacco,No,0.5,0.5,72,0.13,0.13,0,0,0,NA,22.9,NA,NA,NA,NA,NA,NA,NA
+Warren E Buffett,M,Berkshire Hathaway,BRK.A,Diversified Financials,No,39,44,78,0.1,0.1,0,0,0,0.5,38530.8,0.1,5%,107,103,18,24%,113
+Herbert M Allison Jr,M,Fannie Mae,FNM,Diversified Financials,No,1,1,66,0.06,0,0,0.06,0,NA,0,NA,NA,NA,NA,NA,-97%,4
+Steven P Jobs,M,Apple,AAPL,Technology Hardware & Equipment,Yes,12,34,54,0,0,0,0,0,661.24,663.1,110.21,60%,147,157,25,30%,128
+Edward M Liddy,M,American Intl Group,AIG,Insurance,No,1,1,63,0,0,0,0,0,NA,0,NA,NA,NA,NA,NA,-78%,38
+John A Koskinen,M,Freddie Mac,FRE,Diversified Financials,No,0.5,0.5,68,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
