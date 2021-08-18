@@ -1,0 +1,20 @@
+[33m18dd77f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: rebase -i (finish): returning to refs/heads/master
+[33m18dd77f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{1}: rebase -i (start): checkout 18dd77f7524e72f316f7700dbe96a063272c6d89
+[33mb3138d0[m HEAD@{2}: commit: Add lab-55
+[33m18dd77f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{3}: commit: Add lab-50
+[33mc520a83[m HEAD@{4}: commit: Add lab-55
+[33m84cbb1b[m HEAD@{5}: commit: Update lab60 modeltime-ecosystem
+[33m8ee03db[m HEAD@{6}: commit: Update lab60 modeltime-ecosystem
+[33mb33489e[m HEAD@{7}: commit: Update lab60 modeltime-ecosystem
+[33m715ea71[m HEAD@{8}: commit: Update lab54 modeltime-recursive
+[33m3be98ae[m HEAD@{9}: commit: Add lab54 modeltime-recursive
+[33m23d74a2[m HEAD@{10}: commit: Add lab53 Automl-Workshop
+[33m31d2e51[m HEAD@{11}: commit: Add lab53 Automl-Workshop
+[33mbae1f88[m HEAD@{12}: commit: Add lab_51
+[33m4061bfe[m HEAD@{13}: commit: Add Blog
+[33m9e0bc9c[m HEAD@{14}: commit: Update lab-52
+[33ma788059[m HEAD@{15}: commit: Update lab-52
+[33m826d163[m HEAD@{16}: commit: Update lab-56
+[33ma051c1d[m HEAD@{17}: commit: Update lab-58
+[33mb8b4b00[m HEAD@{18}: commit: Update lab-58
+[33m0af8183[m HEAD@{19}: commit (initial): Add lab-58
